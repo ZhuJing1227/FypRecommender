@@ -1,0 +1,1001 @@
+UserID,Gender,Age Group,Top 6 most preferred dishes,laksa,Chili Crab,Char Kway Teow,hainanese chicken rice,Sliced Fish Soup,Fish and Chips,Chinese Economy Rice,Japanese Bento,Curry laksa,Yu Sheng,Duck Rice,Fish Head Curry,Bak Kut Teh,Hokkien Mee,Kway Chap,Roti Prata,Black Pepper Crab,Roti John,Cereal Prawn,Beef Kway Teow,Katong laksa,Sambal Stingray,Crab Bee Hoon Soup,Satay,sum
+430,Female,25 - 54,"Laksa , Char Kway Teow, Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Bak Kut Teh",1,0,1,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6
+103,Male,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Kway Chap, Sambal Stingray",0,0,1,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,6
+581,Male,25 - 54,"Laksa , Sliced Fish Soup, Chinese Economy Rice,Curry laksa, Duck Rice, Crab Bee Hoon Soup",1,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,6
+816,Male,14 and below,"Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Japanese Bento, Hokkien Mee, Satay",0,0,0,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,6
+735,Female,15 - 24,"Char Kway Teow, Hainanese Chicken Rice, Japanese Bento, Kway Chap, Roti Prata, Beef Kway Teow",0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,6
+725,Female,15 - 24,"Laksa , Fish and Chips, Japanese Bento, Yu Sheng, Roti Prata, Beef Kway Teow",1,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6
+418,Female,25 - 54,"Chili Crab, Fish Head Curry, Cereal Prawn, Beef Kway Teow, Crab Bee Hoon Soup, Satay",0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,1,1,6
+664,Male,15 - 24,"Laksa , Hainanese Chicken Rice, Chinese Economy Rice, Bak Kut Teh, katong laksa, Satay",1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,6
+835,Male,14 and below,"Laksa , Hainanese Chicken Rice, Japanese Bento, Fish Head Curry, Hokkien Mee, Cereal Prawn",1,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,6
+519,Male,25 - 54,"Char Kway Teow, Hainanese Chicken Rice, Chinese Economy Rice, Hokkien Mee, Kway Chap, Roti Prata",0,0,1,1,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,6
+622,Male,15 - 24,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Bak Kut Teh, Kway Chap, Satay",0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,6
+277,Female,55 - 64,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup,Curry laksa, Duck Rice, Roti John",1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,6
+78,Female,65 and above,"Sliced Fish Soup, Chinese Economy Rice, Yu Sheng, Bak Kut Teh, Hokkien Mee, Crab Bee Hoon Soup",1,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,6
+331,Male,55 - 64,"Hainanese Chicken Rice, Sliced Fish Soup, Fish and Chips, Hokkien Mee, Black Pepper Crab, Cereal Prawn",0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,6
+842,Male,14 and below,"Laksa , Char Kway Teow, Fish and Chips, Roti Prata, Cereal Prawn, Satay",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,6
+901,Female,14 and below,"Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Hokkien Mee, Roti Prata, Beef Kway Teow",0,0,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,6
+238,Female,55 - 64,"Chili Crab, Hainanese Chicken Rice, Fish and Chips, Fish Head Curry, Black Pepper Crab, Sambal Stingray",0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,6
+567,Male,25 - 54,"Chili Crab, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Hokkien Mee, Roti Prata",0,1,0,1,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6
+69,Female,65 and above,"Sliced Fish Soup, Chinese Economy Rice, Japanese Bento, Hokkien Mee, Beef Kway Teow, Crab Bee Hoon Soup",0,0,0,0,1,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,6
+681,Male,15 - 24,"Laksa , Char Kway Teow, Bak Kut Teh, Hokkien Mee, Cereal Prawn, Sambal Stingray",1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,6
+731,Female,15 - 24,"Laksa , Chili Crab, Hainanese Chicken Rice, Japanese Bento, Roti Prata, Cereal Prawn",1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,6
+836,Male,14 and below,"Laksa , Hainanese Chicken Rice, Fish and Chips, Chinese Economy Rice, Japanese Bento, Roti Prata",1,0,0,1,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6
+412,Female,25 - 54,"Laksa , Sliced Fish Soup, Chinese Economy Rice, Japanese Bento, Duck Rice, Roti Prata",1,0,0,0,1,0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,6
+696,Male,15 - 24,"Laksa , Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Bak Kut Teh, Roti Prata",1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,6
+350,Male,55 - 64,"Laksa , Chili Crab, Char Kway Teow, Chinese Economy Rice, Bak Kut Teh, Kway Chap",1,0,1,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,6
+773,Female,15 - 24,"Laksa , Chili Crab, Char Kway Teow, Fish and Chips, Japanese Bento, Duck Rice",1,1,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+39,Female,65 and above,"Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Japanese Bento, Kway Chap",0,0,0,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,6
+309,Male,55 - 64,"Chili Crab, Hainanese Chicken Rice, Sliced Fish Soup, Fish Head Curry, Hokkien Mee, Roti Prata",0,1,0,1,1,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,6
+730,Female,15 - 24,"Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Kway Chap, Sambal Stingray, Satay",0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,6
+2,Female,65 and above,"Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Japanese Bento, Kway Chap",0,1,1,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,6
+940,Female,14 and below,"Chinese Economy Rice, Yu Sheng, Duck Rice, Hokkien Mee, Roti Prata, Roti John",0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,6
+673,Male,15 - 24,"Laksa , Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Roti Prata, Sambal Stingray",1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,6
+557,Male,25 - 54,"Laksa , Char Kway Teow, Japanese Bento, Bak Kut Teh, Cereal Prawn, Satay",1,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,6
+432,Female,25 - 54,"Chili Crab, Hainanese Chicken Rice, Fish and Chips, Japanese Bento, katong laksa, Crab Bee Hoon Soup",0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,6
+106,Male,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Bak Kut Teh, Sambal Stingray, Crab Bee Hoon Soup",0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,6
+469,Female,25 - 54,"Laksa , Char Kway Teow, Fish and Chips, Japanese Bento, Hokkien Mee, Cereal Prawn",1,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,6
+220,Female,55 - 64,"Laksa , Japanese Bento, Fish Head Curry, Kway Chap, Black Pepper Crab, Satay",1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,6
+402,Female,25 - 54,"Chili Crab, Fish Head Curry, Black Pepper Crab, Cereal Prawn, Sambal Stingray, Crab Bee Hoon Soup",0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,1,0,6
+452,Female,25 - 54,"Laksa , Chili Crab, Char Kway Teow, Sliced Fish Soup,Curry laksa, Fish Head Curry",1,0,1,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,6
+597,Male,25 - 54,"Chili Crab, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Hokkien Mee, Roti Prata",0,1,0,1,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6
+917,Female,14 and below,"Hainanese Chicken Rice, Fish and Chips, Chinese Economy Rice, Japanese Bento, Hokkien Mee, Satay",0,0,0,1,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,6
+772,Female,15 - 24,"Laksa , Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice",1,0,1,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6
+81,Female,65 and above,"Sliced Fish Soup, Chinese Economy Rice, Japanese Bento, Yu Sheng, Bak Kut Teh, Crab Bee Hoon Soup",0,0,0,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,6
+294,Female,55 - 64,"Hainanese Chicken Rice, Japanese Bento, Fish Head Curry, Bak Kut Teh, Sambal Stingray, Crab Bee Hoon Soup",0,0,0,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,1,6
+957,Female,14 and below,"Hainanese Chicken Rice, Japanese Bento,Curry laksa, Duck Rice, Roti Prata, Cereal Prawn",0,0,0,1,0,0,0,1,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,6
+124,Male,65 and above,"Hainanese Chicken Rice, Sliced Fish Soup,Curry laksa, Duck Rice, Bak Kut Teh, Kway Chap",0,0,0,1,1,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,6
+529,Male,25 - 54,"Laksa , Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Japanese Bento, Fish Head Curry",1,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,6
+342,Male,55 - 64,"Char Kway Teow, Fish Head Curry, Bak Kut Teh, Hokkien Mee, Roti Prata, Katong laksa ",0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,1,0,0,0,6
+796,Female,15 - 24,"Fish and Chips, Chinese Economy Rice, Hokkien Mee, Roti Prata, Sambal Stingray, Crab Bee Hoon Soup",0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,6
+9,Female,65 and above,"Laksa , Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Crab Bee Hoon Soup",1,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,6
+689,Male,15 - 24,"Laksa , Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Duck Rice, Bak Kut Teh",1,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+370,Male,55 - 64,"Laksa , Chili Crab, Duck Rice, Hokkien Mee, Black Pepper Crab, Beef Kway Teow",1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,6
+240,Female,55 - 64,"Laksa , Japanese Bento, Fish Head Curry, Kway Chap, Black Pepper Crab, Satay",1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,6
+510,Male,25 - 54,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Crab Bee Hoon Soup",0,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,6
+657,Male,15 - 24,"Char Kway Teow, Hainanese Chicken Rice, Bak Kut Teh, Cereal Prawn, Sambal Stingray, Crab Bee Hoon Soup",0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,6
+734,Female,15 - 24,"Laksa , Hainanese Chicken Rice, Sliced Fish Soup, Bak Kut Teh, Black Pepper Crab, Satay",1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,6
+590,Male,25 - 54,"Chili Crab, Duck Rice, Fish Head Curry, Bak Kut Teh, Hokkien Mee, Satay",0,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,6
+369,Male,55 - 64,"Laksa , Chili Crab, Hainanese Chicken Rice, Bak Kut Teh, Black Pepper Crab, Sambal Stingray",1,0,0,1,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,6
+247,Female,55 - 64,"Laksa , Char Kway Teow, Sliced Fish Soup, Fish Head Curry, Hokkien Mee, Beef Kway Teow",1,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,6
+5,Female,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Crab Bee Hoon Soup",0,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,6
+704,Female,15 - 24,"Hainanese Chicken Rice, Fish and Chips, Japanese Bento,Curry laksa, Duck Rice, Hokkien Mee",0,0,0,1,0,1,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,6
+827,Male,14 and below,"Hainanese Chicken Rice, Fish and Chips, Chinese Economy Rice, Hokkien Mee, Roti Prata, Cereal Prawn",0,0,0,1,0,1,1,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,6
+298,Female,55 - 64,"Chili Crab, Hainanese Chicken Rice, Fish and Chips, Fish Head Curry, Black Pepper Crab, Sambal Stingray",0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,6
+454,Female,25 - 54,"Chili Crab, Fish Head Curry, Cereal Prawn, Beef Kway Teow, Crab Bee Hoon Soup, Satay",0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,1,6
+258,Female,55 - 64,"Chili Crab, Hainanese Chicken Rice, Fish and Chips, Fish Head Curry, Black Pepper Crab, Sambal Stingray",0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,6
+798,Female,15 - 24,"Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Hokkien Mee, Roti Prata, Roti John",0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,6
+506,Male,25 - 54,"Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Hokkien Mee, Roti Prata, Sambal Stingray",0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,6
+40,Female,65 and above,"Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Hokkien Mee, Crab Bee Hoon Soup",0,0,0,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,6
+208,Female,55 - 64,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Beef Kway Teow, Sambal Stingray, Crab Bee Hoon Soup",0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,6
+915,Female,14 and below,"Laksa , Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Kway Chap, Roti Prata",1,0,0,1,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,6
+834,Male,14 and below,"Laksa , Hainanese Chicken Rice, Sliced Fish Soup, Fish Head Curry, Roti Prata, Beef Kway Teow",1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,6
+591,Male,25 - 54,"Laksa , Chili Crab, Duck Rice, Bak Kut Teh, Kway Chap, Roti Prata",1,1,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,6
+547,Male,25 - 54,"Hainanese Chicken Rice, Fish and Chips, Roti Prata, Roti John, Sambal Stingray, Satay",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,6
+135,Male,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Crab Bee Hoon Soup",1,0,1,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,6
+289,Female,55 - 64,"Laksa , Char Kway Teow, Hainanese Chicken Rice, Bak Kut Teh, Kway Chap, Katong laksa ",1,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,6
+407,Female,25 - 54,"Laksa , Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Hokkien Mee, Satay",1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,6
+151,Male,65 and above,"Hainanese Chicken Rice, Sliced Fish Soup, Roti Prata, Cereal Prawn, Crab Bee Hoon Soup, Satay",0,0,1,1,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,6
+54,Female,65 and above,"Chili Crab, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, katong laksa, Sambal Stingray",0,0,0,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,6
+618,Male,15 - 24,"Laksa , Char Kway Teow, Fish and Chips, Yu Sheng, Bak Kut Teh, Hokkien Mee",1,0,1,0,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,6
+108,Male,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Crab Bee Hoon Soup",0,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,6
+829,Male,14 and below,"Fish and Chips, Japanese Bento, Hokkien Mee, Roti Prata, Roti John, Satay",0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1,6
+233,Female,55 - 64,"Laksa , Fish and Chips, Japanese Bento, Cereal Prawn, katong laksa, Crab Bee Hoon Soup",1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,6
+356,Male,55 - 64,"Laksa , Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Yu Sheng, Black Pepper Crab",1,0,1,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,6
+694,Male,15 - 24,"Laksa , Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Hokkien Mee, Roti Prata",1,0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,6
+495,Female,25 - 54,"Chili Crab, Duck Rice, Kway Chap, Black Pepper Crab, katong laksa, Sambal Stingray",0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,6
+197,Male,65 and above,"Chili Crab, Char Kway Teow, Sliced Fish Soup, Chinese Economy Rice, Duck Rice, Fish Head Curry",0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,6
+760,Female,15 - 24,"Sliced Fish Soup, Japanese Bento, Duck Rice, Fish Head Curry, Hokkien Mee, Roti Prata",0,1,0,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,6
+154,Male,65 and above,"Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Duck Rice, Bak Kut Teh, Crab Bee Hoon Soup",0,0,1,1,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,6
+203,Female,55 - 64,"Chili Crab, Char Kway Teow, Japanese Bento, Hokkien Mee, Kway Chap, Black Pepper Crab",0,1,1,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,6
+784,Female,15 - 24,"Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Kway Chap, Sambal Stingray, Satay",0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,6
+503,Male,25 - 54,"Laksa , Hainanese Chicken Rice, Japanese Bento,Curry laksa, Roti John, Katong laksa ",1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,6
+406,Female,25 - 54,"Chili Crab, Char Kway Teow, Hainanese Chicken Rice,Curry laksa, Duck Rice, Fish Head Curry",0,1,1,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,6
+455,Female,25 - 54,"Chili Crab, Char Kway Teow, Chinese Economy Rice, Japanese Bento, Duck Rice, Hokkien Mee",0,0,1,1,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,6
+973,Female,14 and below,"Roti John, Cereal Prawn, katong laksa, Sambal Stingray, Crab Bee Hoon Soup, Satay",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,1,0,1,6
+742,Female,15 - 24,"Fish and Chips, Chinese Economy Rice, Hokkien Mee, Roti Prata, Sambal Stingray, Crab Bee Hoon Soup",0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,0,6
+607,Male,15 - 24,"Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Bak Kut Teh, Sambal Stingray, Satay",0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,6
+13,Female,65 and above,"Sliced Fish Soup, Chinese Economy Rice, Yu Sheng, Duck Rice, Bak Kut Teh, Crab Bee Hoon Soup",0,0,0,0,1,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,6
+468,Female,25 - 54,"Chili Crab, Hainanese Chicken Rice, Fish and Chips, Japanese Bento, katong laksa, Crab Bee Hoon Soup",0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+666,Male,15 - 24,"Laksa , Char Kway Teow, Fish and Chips, Yu Sheng, Bak Kut Teh, Hokkien Mee",1,0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,6
+585,Male,25 - 54,"Laksa , Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Roti Prata, Black Pepper Crab",1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,6
+647,Male,15 - 24,"Char Kway Teow, Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Fish Head Curry, Hokkien Mee",0,0,1,1,0,1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,6
+386,Male,55 - 64,"Laksa , Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Fish and Chips, Black Pepper Crab",1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,6
+353,Male,55 - 64,"Laksa , Chili Crab, Japanese Bento, katong laksa, Sambal Stingray, Crab Bee Hoon Soup",1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,6
+28,Female,65 and above,"Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, katong laksa, Crab Bee Hoon Soup",0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,6
+299,Female,55 - 64,"Laksa , Char Kway Teow, Japanese Bento, Fish Head Curry, Cereal Prawn, Katong laksa ",1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,6
+992,Female,14 and below,"Hainanese Chicken Rice, Sliced Fish Soup, Fish and Chips, Japanese Bento, Hokkien Mee, Cereal Prawn",1,0,1,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6
+568,Male,25 - 54,"Laksa , Chili Crab, Sliced Fish Soup, Duck Rice, katong laksa, Sambal Stingray",1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,6
+217,Female,55 - 64,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup,Curry laksa, Duck Rice, Roti John",0,0,1,1,1,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6
+819,Male,14 and below,"Sliced Fish Soup, Fish and Chips, Chinese Economy Rice, Japanese Bento, Hokkien Mee, Roti Prata",0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6
+695,Male,15 - 24,"Char Kway Teow, Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Fish Head Curry, Hokkien Mee",0,0,1,1,0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,6
+322,Male,55 - 64,"Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Fish Head Curry, Bak Kut Teh, Hokkien Mee",0,0,0,1,1,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,6
+656,Male,15 - 24,"Laksa , Fish and Chips, Chinese Economy Rice, Japanese Bento, Roti Prata, Satay",1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,6
+866,Male,14 and below,"Laksa ,Curry laksa, Roti Prata, Roti John, Cereal Prawn, Katong laksa ",1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,6
+508,Male,25 - 54,"Laksa , Chili Crab, Sliced Fish Soup, Duck Rice, katong laksa, Sambal Stingray",1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,6
+813,Male,14 and below,"Sliced Fish Soup, Fish and Chips, Japanese Bento,Curry laksa, Hokkien Mee, Roti Prata",0,0,0,0,1,1,0,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6
+877,Male,14 and below,"Laksa , Chili Crab, Fish and Chips, Duck Rice, Hokkien Mee, Kway Chap",1,1,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,6
+38,Female,65 and above,"Chili Crab, Japanese Bento,Curry laksa, Duck Rice, Hokkien Mee, Roti Prata",0,0,0,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,6
+341,Male,55 - 64,"Char Kway Teow, Sliced Fish Soup, Chinese Economy Rice, Duck Rice, Fish Head Curry, Beef Kway Teow",0,0,1,0,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,6
+485,Female,25 - 54,"Chili Crab, Sliced Fish Soup, Bak Kut Teh, Black Pepper Crab, Cereal Prawn, Sambal Stingray",0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,6
+640,Male,15 - 24,"Chili Crab, Char Kway Teow, Japanese Bento, Fish Head Curry, Hokkien Mee, Sambal Stingray",0,1,1,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,6
+881,Male,14 and below,"Laksa , Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Fish and Chips, Japanese Bento",1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+852,Male,14 and below,"Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Japanese Bento, Hokkien Mee, Satay",0,0,0,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,6
+380,Male,55 - 64,"Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Japanese Bento, Duck Rice, Kway Chap",0,0,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,1,6
+97,Female,65 and above,"Sliced Fish Soup, Yu Sheng, Duck Rice, Bak Kut Teh, Hokkien Mee, Crab Bee Hoon Soup",0,0,0,1,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,6
+583,Male,25 - 54,"Hainanese Chicken Rice, Fish and Chips, Hokkien Mee, Kway Chap, Black Pepper Crab, Cereal Prawn",0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,6
+290,Female,55 - 64,"Fish and Chips, Japanese Bento,Curry laksa, Hokkien Mee, Beef Kway Teow, Crab Bee Hoon Soup",0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0,6
+521,Male,25 - 54,"Laksa , Sliced Fish Soup, Chinese Economy Rice,Curry laksa, Duck Rice, Crab Bee Hoon Soup",1,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,6
+245,Female,55 - 64,"Laksa , Char Kway Teow,Curry laksa, Hokkien Mee, Roti Prata, Satay",1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,6
+635,Male,15 - 24,"Sliced Fish Soup,Curry laksa, Bak Kut Teh, Sambal Stingray, Crab Bee Hoon Soup, Satay",0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,6
+786,Female,15 - 24,"Hainanese Chicken Rice, Japanese Bento, Duck Rice, Bak Kut Teh, Cereal Prawn, Crab Bee Hoon Soup",0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,1,0,6
+333,Male,55 - 64,"Chili Crab, Hainanese Chicken Rice, Fish Head Curry, Hokkien Mee, Black Pepper Crab, Sambal Stingray",0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,6
+385,Male,55 - 64,"Char Kway Teow, Hainanese Chicken Rice, Chinese Economy Rice, Bak Kut Teh, Hokkien Mee, Kway Chap",0,0,1,1,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,6
+89,Female,65 and above,"Laksa , Sliced Fish Soup, Chinese Economy Rice, Hokkien Mee, Crab Bee Hoon Soup, Satay",0,0,0,1,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,6
+183,Male,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Crab Bee Hoon Soup",0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,6
+552,Male,25 - 54,"Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Hokkien Mee",0,1,1,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6
+283,Female,55 - 64,"Chili Crab, Char Kway Teow, Japanese Bento, Hokkien Mee, Kway Chap, Black Pepper Crab",0,1,1,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,6
+37,Female,65 and above,"Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Sambal Stingray, Crab Bee Hoon Soup, Satay",0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,6
+421,Female,25 - 54,"Yu Sheng, Duck Rice, Bak Kut Teh, Kway Chap, Roti Prata, Sambal Stingray",0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,1,0,0,0,0,0,1,0,0,6
+678,Male,15 - 24,"Hainanese Chicken Rice, Japanese Bento, Roti Prata, katong laksa, Sambal Stingray, Satay",0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,0,1,6
+563,Male,25 - 54,"Laksa , Hainanese Chicken Rice, Japanese Bento,Curry laksa, Roti John, Katong laksa ",1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,6
+709,Female,15 - 24,"Chili Crab, Hainanese Chicken Rice, Fish and Chips,Curry laksa, Fish Head Curry, Roti Prata",0,1,0,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,6
+619,Male,15 - 24,"Chili Crab, Duck Rice, Fish Head Curry, Hokkien Mee, Kway Chap, Roti Prata",0,1,0,0,0,0,0,0,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,6
+848,Male,14 and below,"Chili Crab, Sliced Fish Soup, Fish and Chips, Japanese Bento, Roti Prata, Satay",0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,6
+286,Female,55 - 64,"Laksa , Char Kway Teow, Hainanese Chicken Rice, Fish Head Curry, Hokkien Mee, Katong laksa ",1,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,6
+832,Male,14 and below,"Laksa , Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Bak Kut Teh, Roti Prata",1,0,0,1,0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6
+155,Male,65 and above,"Chili Crab, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Sambal Stingray, Crab Bee Hoon Soup",0,0,1,1,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,6
+558,Male,25 - 54,"Chili Crab, Char Kway Teow, Fish and Chips, Duck Rice, Roti John, Sambal Stingray",0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,6
+206,Female,55 - 64,"Laksa , Char Kway Teow, Hainanese Chicken Rice, Fish Head Curry, Hokkien Mee, Katong laksa ",1,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,6
+116,Male,65 and above,"Char Kway Teow, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, katong laksa, Crab Bee Hoon Soup",0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,6
+902,Female,14 and below,"Laksa , Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Hokkien Mee, Roti Prata",1,0,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6
+193,Male,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Katong laksa",0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,6
+122,Male,65 and above,"Chili Crab, Char Kway Teow, Sliced Fish Soup, Chinese Economy Rice, Duck Rice, Fish Head Curry",0,1,1,0,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,6
+792,Female,15 - 24,"Char Kway Teow, Hainanese Chicken Rice, Hokkien Mee, Roti Prata, Roti John, Sambal Stingray",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,1,0,0,6
+637,Male,15 - 24,"Hainanese Chicken Rice, Fish and Chips, Bak Kut Teh, Roti Prata, Sambal Stingray, Satay",0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1,6
+686,Male,15 - 24,"Chili Crab, Bak Kut Teh, Kway Chap, Cereal Prawn, katong laksa, Sambal Stingray",0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,1,0,0,6
+921,Female,14 and below,"Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Yu Sheng, Cereal Prawn, Satay",0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,6
+862,Male,14 and below,"Fish and Chips, Japanese Bento, Fish Head Curry, Hokkien Mee, Cereal Prawn, Katong laksa ",0,0,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,0,1,0,1,0,0,0,6
+196,Male,65 and above,"Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Kway Chap, Crab Bee Hoon Soup",0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,6
+491,Female,25 - 54,"Chili Crab, Char Kway Teow, Chinese Economy Rice, Japanese Bento, Duck Rice, Hokkien Mee",0,1,1,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,6
+355,Male,55 - 64,"Chili Crab, Hainanese Chicken Rice, Fish and Chips, Black Pepper Crab, Cereal Prawn, Katong laksa ",0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,6
+869,Male,14 and below,"Hainanese Chicken Rice, Japanese Bento, Fish Head Curry, Cereal Prawn, Sambal Stingray, Satay",0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,6
+969,Female,14 and below,"Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Kway Chap, Roti Prata, Satay",1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,6
+338,Male,55 - 64,"Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Japanese Bento, Duck Rice, Kway Chap",0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,6
+982,Female,14 and below,"Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Hokkien Mee, Cereal Prawn, Crab Bee Hoon Soup",0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,6
+617,Male,15 - 24,"Fish and Chips, Japanese Bento, Yu Sheng, Hokkien Mee, Kway Chap, Cereal Prawn",0,0,0,0,0,1,0,1,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,6
+980,Female,14 and below,"Sliced Fish Soup, Fish and Chips, Japanese Bento,Curry laksa, Hokkien Mee, Roti Prata",0,0,0,0,1,1,0,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6
+870,Male,14 and below,"Laksa , Hainanese Chicken Rice, Sliced Fish Soup, Fish Head Curry, Roti Prata, Beef Kway Teow",1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,6
+413,Female,25 - 54,"Chili Crab, Sliced Fish Soup, Bak Kut Teh, Black Pepper Crab, Cereal Prawn, Sambal Stingray",0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,6
+801,Male,14 and below,"Laksa , Fish and Chips,Curry laksa, Bak Kut Teh, Roti Prata, Katong laksa ",1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,6
+843,Male,14 and below,"Laksa , Hainanese Chicken Rice, Fish and Chips, Fish Head Curry, Beef Kway Teow, Sambal Stingray",1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,6
+913,Female,14 and below,"Roti John, Cereal Prawn, katong laksa, Sambal Stingray, Crab Bee Hoon Soup, Satay",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,6
+312,Male,55 - 64,"Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Black Pepper Crab, katong laksa, Sambal Stingray",0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,6
+507,Male,25 - 54,"Chili Crab, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Hokkien Mee, Roti Prata",0,1,0,1,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6
+123,Male,65 and above,"Chili Crab, Char Kway Teow, Sliced Fish Soup, Chinese Economy Rice, Black Pepper Crab, Beef Kway Teow",0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,6
+335,Male,55 - 64,"Hainanese Chicken Rice, Fish Head Curry, Roti Prata, Roti John, Sambal Stingray, Satay",0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,1,6
+737,Female,15 - 24,"Laksa , Chili Crab, Japanese Bento, Kway Chap, Roti Prata, Sambal Stingray",1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,6
+758,Female,15 - 24,"Hainanese Chicken Rice, Fish and Chips, Japanese Bento,Curry laksa, Duck Rice, Hokkien Mee",0,1,0,1,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+728,Female,15 - 24,"Laksa , Hainanese Chicken Rice,Curry laksa, Fish Head Curry, Bak Kut Teh, Hokkien Mee",1,0,0,1,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,6
+435,Female,25 - 54,"Laksa , Sliced Fish Soup, Hokkien Mee, Sambal Stingray, Crab Bee Hoon Soup, Satay",1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,6
+371,Male,55 - 64,"Laksa , Char Kway Teow, Chinese Economy Rice, Duck Rice, Hokkien Mee, Beef Kway Teow",1,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,6
+741,Female,15 - 24,"Laksa , Hainanese Chicken Rice,Curry laksa, Roti Prata, Roti John, Satay",1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,6
+802,Male,14 and below,"Hainanese Chicken Rice, Chinese Economy Rice, Japanese Bento,Curry laksa, Bak Kut Teh, Roti Prata",0,0,0,1,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6
+899,Male,14 and below,"Hainanese Chicken Rice, Fish and Chips, Chinese Economy Rice, Hokkien Mee, Roti Prata, Cereal Prawn",0,0,0,1,0,1,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,6
+944,Female,14 and below,"Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Duck Rice, Roti Prata, Satay",0,0,0,1,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,6
+34,Female,65 and above,"Laksa , Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, katong laksa, Crab Bee Hoon Soup",1,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,6
+246,Female,55 - 64,"Laksa , Char Kway Teow, Hainanese Chicken Rice, Fish Head Curry, Hokkien Mee, Katong laksa ",1,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,6
+883,Male,14 and below,"Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Roti Prata, Cereal Prawn, Satay",1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,6
+157,Male,65 and above,"Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Duck Rice, Bak Kut Teh, Crab Bee Hoon Soup",0,0,1,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,6
+502,Male,25 - 54,"Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Bak Kut Teh, Hokkien Mee, Katong laksa ",0,1,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,6
+687,Male,15 - 24,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Hokkien Mee, Cereal Prawn",0,0,1,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,6
+926,Female,14 and below,"Hainanese Chicken Rice, Sliced Fish Soup, Fish and Chips, Japanese Bento, Hokkien Mee, Cereal Prawn",0,0,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,6
+84,Female,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Japanese Bento, Crab Bee Hoon Soup",0,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,6
+746,Female,15 - 24,"Laksa , Hainanese Chicken Rice, Duck Rice, Hokkien Mee, katong laksa, Crab Bee Hoon Soup",1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,0,6
+465,Female,25 - 54,"Laksa , Sliced Fish Soup, Japanese Bento, Hokkien Mee, Cereal Prawn, Crab Bee Hoon Soup",1,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,6
+496,Female,25 - 54,"Laksa , Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Yu Sheng, Fish Head Curry",1,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,6
+512,Male,25 - 54,"Laksa , Hainanese Chicken Rice,Curry laksa, Yu Sheng, Hokkien Mee, Black Pepper Crab",1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,6
+366,Male,55 - 64,"Sliced Fish Soup, Japanese Bento, Kway Chap, Cereal Prawn, Sambal Stingray, Satay",0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,6
+633,Male,15 - 24,"Laksa , Char Kway Teow, Bak Kut Teh, Hokkien Mee, Cereal Prawn, Sambal Stingray",1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0,6
+222,Female,55 - 64,"Laksa , Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Fish and Chips",1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+498,Female,25 - 54,"Chili Crab, Char Kway Teow, Fish and Chips, Japanese Bento, Black Pepper Crab, Crab Bee Hoon Soup",1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,6
+259,Female,55 - 64,"Laksa , Char Kway Teow, Japanese Bento, Fish Head Curry, Cereal Prawn, Katong laksa ",1,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,6
+160,Male,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Crab Bee Hoon Soup",0,0,1,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,6
+708,Female,15 - 24,"Laksa ,Curry laksa, Bak Kut Teh, Hokkien Mee, Roti Prata, Satay",1,1,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,6
+965,Female,14 and below,"Hainanese Chicken Rice, Fish and Chips, Chinese Economy Rice, Japanese Bento, Hokkien Mee, Roti Prata",0,0,0,1,0,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6
+260,Female,55 - 64,"Laksa , Japanese Bento, Fish Head Curry, Kway Chap, Black Pepper Crab, Satay",1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,6
+528,Male,25 - 54,"Chili Crab, Char Kway Teow, Fish and Chips, Duck Rice, Roti John, Sambal Stingray",0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,6
+857,Male,14 and below,"Char Kway Teow, Fish and Chips, Roti Prata, Roti John, Sambal Stingray, Satay",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,6
+886,Male,14 and below,"Laksa , Sliced Fish Soup, Fish and Chips, Japanese Bento, Hokkien Mee, Cereal Prawn",1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,6
+655,Male,15 - 24,"Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Bak Kut Teh, Sambal Stingray, Satay",0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,6
+605,Male,15 - 24,"Laksa , Chili Crab, Hainanese Chicken Rice, Fish and Chips, Hokkien Mee, Roti Prata",1,1,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6
+789,Female,15 - 24,"Char Kway Teow, Hainanese Chicken Rice, Japanese Bento, Kway Chap, Roti Prata, Beef Kway Teow",0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,6
+226,Female,55 - 64,"Laksa , Char Kway Teow, Hainanese Chicken Rice, Fish Head Curry, Hokkien Mee, Katong laksa ",1,0,0,1,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,6
+705,Female,15 - 24,"Fish and Chips, Japanese Bento, Duck Rice, Bak Kut Teh, Hokkien Mee, Satay",0,0,0,0,0,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,6
+23,Female,65 and above,"Sliced Fish Soup, Yu Sheng, Duck Rice, Bak Kut Teh, Hokkien Mee, Crab Bee Hoon Soup",0,0,0,0,1,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,1,0,6
+14,Female,65 and above,"Sliced Fish Soup, Chinese Economy Rice, Japanese Bento, Yu Sheng, Bak Kut Teh, Crab Bee Hoon Soup",0,0,0,0,1,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,6
+680,Male,15 - 24,"Fish and Chips, Chinese Economy Rice, Japanese Bento, Duck Rice, Bak Kut Teh, Hokkien Mee",0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,6
+270,Female,55 - 64,"Fish and Chips, Japanese Bento,Curry laksa, Hokkien Mee, Beef Kway Teow, Crab Bee Hoon Soup",0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,6
+82,Female,65 and above,"Chili Crab, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Kway Chap, Crab Bee Hoon Soup",0,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,6
+847,Male,14 and below,"Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Roti Prata, Cereal Prawn, Satay",0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,6
+439,Female,25 - 54,"Sliced Fish Soup,Curry laksa, Fish Head Curry, Sambal Stingray, Crab Bee Hoon Soup, Satay",0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,6
+761,Female,15 - 24,"Laksa , Hainanese Chicken Rice, Fish and Chips, Roti Prata, Black Pepper Crab, Satay",1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,6
+632,Male,15 - 24,"Fish and Chips, Chinese Economy Rice, Japanese Bento, Duck Rice, Bak Kut Teh, Hokkien Mee",0,0,0,0,0,1,1,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,6
+64,Female,65 and above,"Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Hokkien Mee, katong laksa, Crab Bee Hoon Soup",0,0,0,0,1,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,6
+119,Male,65 and above,"Sliced Fish Soup, Bak Kut Teh, Kway Chap, Black Pepper Crab, katong laksa, Crab Bee Hoon Soup",0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,1,0,6
+305,Male,55 - 64,"Chili Crab, Duck Rice, Fish Head Curry, Bak Kut Teh, Hokkien Mee, Black Pepper Crab",0,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,6
+739,Female,15 - 24,"Hainanese Chicken Rice, Hokkien Mee, Roti Prata, Black Pepper Crab, Sambal Stingray, Satay",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,1,0,1,6
+181,Male,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Bak Kut Teh, Sambal Stingray, Crab Bee Hoon Soup",0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,6
+968,Female,14 and below,"Hainanese Chicken Rice, Fish and Chips, Hokkien Mee, Roti Prata, Sambal Stingray, Satay",1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,1,6
+520,Male,25 - 54,"Char Kway Teow, Hainanese Chicken Rice, Roti John, Cereal Prawn, Sambal Stingray, Satay",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,6
+67,Female,65 and above,"Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Yu Sheng, Bak Kut Teh, Hokkien Mee",0,0,0,0,1,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,6
+166,Male,65 and above,"Char Kway Teow, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, katong laksa, Crab Bee Hoon Soup",0,0,1,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,6
+100,Female,65 and above,"Laksa , Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, katong laksa, Crab Bee Hoon Soup",0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,6
+223,Female,55 - 64,"Chili Crab, Char Kway Teow, Japanese Bento, Hokkien Mee, Kway Chap, Black Pepper Crab",0,1,0,1,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,6
+92,Female,65 and above,"Char Kway Teow, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Kway Chap, Roti Prata",0,0,0,1,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,6
+419,Female,25 - 54,"Chili Crab, Char Kway Teow, Chinese Economy Rice, Japanese Bento, Duck Rice, Hokkien Mee",0,1,1,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,6
+963,Female,14 and below,"Hainanese Chicken Rice, Bak Kut Teh, Hokkien Mee, Kway Chap, Roti Prata, Satay",0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,1,6
+11,Female,65 and above,"Laksa , Char Kway Teow, Sliced Fish Soup, Chinese Economy Rice, Cereal Prawn, Crab Bee Hoon Soup",1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,6
+892,Male,14 and below,"Hainanese Chicken Rice, Sliced Fish Soup, Japanese Bento, Cereal Prawn, Beef Kway Teow, Katong laksa ",0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,6
+88,Female,65 and above,"Sliced Fish Soup, Chinese Economy Rice, Japanese Bento, Yu Sheng, Bak Kut Teh, Crab Bee Hoon Soup",0,0,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,6
+324,Male,55 - 64,"Sliced Fish Soup, Japanese Bento, Kway Chap, Cereal Prawn, Sambal Stingray, Satay",0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,6
+156,Male,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Bak Kut Teh, Sambal Stingray, Crab Bee Hoon Soup",0,0,1,1,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,6
+148,Male,65 and above,"Chili Crab, Char Kway Teow, Sliced Fish Soup, Chinese Economy Rice, Black Pepper Crab, Beef Kway Teow",0,0,1,1,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,6
+803,Male,14 and below,"Hainanese Chicken Rice, Fish and Chips, Duck Rice, Bak Kut Teh, Roti Prata, Satay",0,0,0,1,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,6
+945,Female,14 and below,"Laksa , Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Kway Chap, Roti Prata",1,0,0,1,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,6
+793,Female,15 - 24,"Hainanese Chicken Rice, Hokkien Mee, Roti Prata, Black Pepper Crab, Sambal Stingray, Satay",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,1,6
+672,Male,15 - 24,"Laksa , Hainanese Chicken Rice, Japanese Bento, Kway Chap, Cereal Prawn, Satay",1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,1,6
+244,Female,55 - 64,"Laksa , Char Kway Teow, Japanese Bento, Duck Rice, Fish Head Curry, Kway Chap",1,0,1,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,6
+721,Female,15 - 24,"Hainanese Chicken Rice, Fish and Chips, Chinese Economy Rice, Duck Rice, Fish Head Curry, Hokkien Mee",0,0,0,1,0,1,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,6
+733,Female,15 - 24,"Chili Crab, Sliced Fish Soup, Japanese Bento, Hokkien Mee, Cereal Prawn, Katong laksa ",0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,6
+776,Female,15 - 24,"Japanese Bento, Hokkien Mee, Roti John, Cereal Prawn, Sambal Stingray, Satay",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,1,6
+738,Female,15 - 24,"Char Kway Teow, Hainanese Chicken Rice, Hokkien Mee, Roti Prata, Roti John, Sambal Stingray",0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,6
+444,Female,25 - 54,"Char Kway Teow, Fish and Chips, Japanese Bento, Bak Kut Teh, Hokkien Mee, Satay",0,0,1,0,0,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,6
+272,Female,55 - 64,"Laksa , Chili Crab, Duck Rice, Fish Head Curry, Bak Kut Teh, Kway Chap",1,1,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,6
+194,Male,65 and above,"Sliced Fish Soup, Bak Kut Teh, Kway Chap, Black Pepper Crab, katong laksa, Crab Bee Hoon Soup",0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,6
+304,Male,55 - 64,"Chili Crab, Char Kway Teow, Beef Kway Teow, katong laksa, Sambal Stingray, Satay",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,6
+187,Male,65 and above,"Char Kway Teow, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Kway Chap, Crab Bee Hoon Soup",0,0,1,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,6
+318,Male,55 - 64,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Bak Kut Teh, Hokkien Mee, Beef Kway Teow",0,0,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,6
+327,Male,55 - 64,"Laksa , Chili Crab, Hainanese Chicken Rice, Bak Kut Teh, Black Pepper Crab, Sambal Stingray",1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,6
+395,Male,55 - 64,"Laksa , Chili Crab, Japanese Bento, katong laksa, Sambal Stingray, Crab Bee Hoon Soup",1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,6
+893,Male,14 and below,"Char Kway Teow, Fish and Chips, Roti Prata, Roti John, Sambal Stingray, Satay",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,6
+50,Female,65 and above,"Sliced Fish Soup, Chinese Economy Rice, Yu Sheng, Duck Rice, Bak Kut Teh, Crab Bee Hoon Soup",0,0,0,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,6
+732,Female,15 - 24,"Hainanese Chicken Rice, Japanese Bento, Duck Rice, Bak Kut Teh, Cereal Prawn, Crab Bee Hoon Soup",0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,1,0,6
+863,Male,14 and below,"Hainanese Chicken Rice, Fish and Chips, Chinese Economy Rice, Hokkien Mee, Roti Prata, Cereal Prawn",0,0,0,1,0,1,1,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,6
+674,Male,15 - 24,"Hainanese Chicken Rice, Hokkien Mee, Black Pepper Crab, Cereal Prawn, Sambal Stingray, Crab Bee Hoon Soup",0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,1,0,6
+651,Male,15 - 24,"Hainanese Chicken Rice, Sliced Fish Soup, Duck Rice, Bak Kut Teh, Hokkien Mee, Kway Chap",0,0,0,1,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,6
+180,Male,65 and above,"Chili Crab, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Sambal Stingray, Crab Bee Hoon Soup",0,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,6
+767,Female,15 - 24,"Laksa , Chili Crab, Char Kway Teow, Bak Kut Teh, Hokkien Mee, Cereal Prawn",1,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,6
+253,Female,55 - 64,"Laksa , Fish and Chips, Japanese Bento, Cereal Prawn, katong laksa, Crab Bee Hoon Soup",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,6
+252,Female,55 - 64,"Laksa , Chili Crab, Duck Rice, Fish Head Curry, Bak Kut Teh, Kway Chap",1,1,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,6
+479,Female,25 - 54,"Laksa , Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Hokkien Mee, Satay",1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,6
+87,Female,65 and above,"Sliced Fish Soup, Chinese Economy Rice, Yu Sheng, Duck Rice, Bak Kut Teh, Crab Bee Hoon Soup",0,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,6
+450,Female,25 - 54,"Laksa ,Curry laksa, Fish Head Curry, Bak Kut Teh, katong laksa, Crab Bee Hoon Soup",1,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,6
+126,Male,65 and above,"Hainanese Chicken Rice, Sliced Fish Soup, Roti Prata, Cereal Prawn, Crab Bee Hoon Soup, Satay",1,0,1,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,6
+513,Male,25 - 54,"Sliced Fish Soup, Japanese Bento, Fish Head Curry, Black Pepper Crab, Cereal Prawn, Katong laksa ",0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0,0,6
+273,Female,55 - 64,"Laksa , Fish and Chips, Japanese Bento, Cereal Prawn, katong laksa, Crab Bee Hoon Soup",1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,6
+774,Female,15 - 24,"Laksa , Sliced Fish Soup, Japanese Bento,Curry laksa, Duck Rice, Fish Head Curry",1,0,0,0,1,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,6
+641,Male,15 - 24,"Laksa , Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Duck Rice, Bak Kut Teh",1,0,0,1,1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,6
+120,Male,65 and above,"Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Black Pepper Crab, Cereal Prawn, Crab Bee Hoon Soup",0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,6
+898,Male,14 and below,"Fish and Chips, Japanese Bento, Fish Head Curry, Hokkien Mee, Cereal Prawn, Katong laksa ",0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,1,0,1,0,1,0,6
+75,Female,65 and above,"Chili Crab, Japanese Bento,Curry laksa, Duck Rice, Hokkien Mee, Roti Prata",0,0,0,0,1,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,6
+509,Male,25 - 54,"Chili Crab, Hainanese Chicken Rice,Curry laksa, Bak Kut Teh, Black Pepper Crab, Sambal Stingray",0,1,0,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,6
+868,Male,14 and below,"Laksa , Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Bak Kut Teh, Roti Prata",1,0,0,1,0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6
+98,Female,65 and above,"Sliced Fish Soup, Chinese Economy Rice, Japanese Bento, Bak Kut Teh, Kway Chap, Crab Bee Hoon Soup",0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,6
+541,Male,25 - 54,"Char Kway Teow, Hainanese Chicken Rice, Duck Rice, Fish Head Curry, Sambal Stingray, Satay",0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,6
+593,Male,25 - 54,"Laksa , Hainanese Chicken Rice, Japanese Bento,Curry laksa, Roti John, Katong laksa ",1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,6
+70,Female,65 and above,"Laksa , Chili Crab, Sliced Fish Soup, Fish Head Curry, Roti Prata, Roti John",0,0,0,0,1,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,6
+55,Female,65 and above,"Char Kway Teow, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Kway Chap, Roti Prata",0,0,0,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,6
+667,Male,15 - 24,"Chili Crab, Duck Rice, Fish Head Curry, Hokkien Mee, Kway Chap, Roti Prata",0,1,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0,0,0,0,0,0,0,0,6
+998,Female,14 and below,"Hainanese Chicken Rice, Japanese Bento,Curry laksa, Duck Rice, Roti Prata, Cereal Prawn",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,1,0,6
+946,Female,14 and below,"Laksa , Hainanese Chicken Rice, Fish Head Curry, Hokkien Mee, Roti Prata, Satay",1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,6
+934,Female,14 and below,"Fish and Chips, Japanese Bento, Duck Rice, Bak Kut Teh, Roti Prata, Satay",0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,6
+3,Female,65 and above,"Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Hokkien Mee, Crab Bee Hoon Soup",0,0,0,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,6
+394,Male,55 - 64,"Laksa , Hainanese Chicken Rice, Hokkien Mee, Kway Chap, katong laksa, Sambal Stingray",1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,6
+538,Male,25 - 54,"Laksa , Chili Crab, Sliced Fish Soup, Duck Rice, katong laksa, Sambal Stingray",1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,6
+919,Female,14 and below,"Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Hokkien Mee, Kway Chap, Roti Prata",0,0,0,1,0,1,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,6
+379,Male,55 - 64,"Laksa , Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Fish Head Curry, Sambal Stingray",1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,6
+499,Female,25 - 54,"Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Kway Chap, Cereal Prawn, Katong laksa ",0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,6
+684,Male,15 - 24,"Laksa , Hainanese Chicken Rice, Japanese Bento, Cereal Prawn, katong laksa, Satay",1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,6
+903,Female,14 and below,"Hainanese Chicken Rice, Bak Kut Teh, Hokkien Mee, Kway Chap, Roti Prata, Satay",0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,1,6
+890,Male,14 and below,"Laksa , Japanese Bento,Curry laksa, Fish Head Curry, Bak Kut Teh, Hokkien Mee",1,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,6
+555,Male,25 - 54,"Laksa , Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Roti Prata, Black Pepper Crab",1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6
+423,Female,25 - 54,"Chili Crab, Duck Rice, Kway Chap, Black Pepper Crab, katong laksa, Sambal Stingray",0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,6
+59,Female,65 and above,"Char Kway Teow, Sliced Fish Soup, Chinese Economy Rice, Japanese Bento, Yu Sheng, Crab Bee Hoon Soup",0,0,0,0,1,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,6
+942,Female,14 and below,"Hainanese Chicken Rice, Sliced Fish Soup, Fish and Chips, Chinese Economy Rice, Duck Rice, Kway Chap",0,0,0,1,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,6
+764,Female,15 - 24,"Chili Crab, Hainanese Chicken Rice, Hokkien Mee, Roti Prata, Cereal Prawn, Sambal Stingray",0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,1,1,0,6
+263,Female,55 - 64,"Chili Crab, Char Kway Teow, Japanese Bento, Hokkien Mee, Kway Chap, Black Pepper Crab",0,1,0,1,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,6
+914,Female,14 and below,"Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Duck Rice, Roti Prata, Satay",0,0,0,1,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,6
+43,Female,65 and above,"Laksa , Sliced Fish Soup, Chinese Economy Rice, Yu Sheng, Bak Kut Teh, Crab Bee Hoon Soup",0,0,0,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,6
+12,Female,65 and above,"Sliced Fish Soup, Chinese Economy Rice, Hokkien Mee, Sambal Stingray, Crab Bee Hoon Soup, Satay",0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,6
+612,Male,15 - 24,"Hainanese Chicken Rice,Curry laksa, Duck Rice, Hokkien Mee, Cereal Prawn, Satay",0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0,1,6
+654,Male,15 - 24,"Char Kway Teow, Hainanese Chicken Rice, Fish and Chips, Chinese Economy Rice, Hokkien Mee, Roti Prata",0,0,1,1,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,6
+1000,Female,14 and below,"Char Kway Teow, Sliced Fish Soup, Fish and Chips, Cereal Prawn, Beef Kway Teow, Sambal Stingray",0,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,6
+526,Male,25 - 54,"Laksa , Chili Crab, Char Kway Teow, Kway Chap, Roti Prata, Black Pepper Crab",1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,6
+959,Female,14 and below,"Char Kway Teow, Sliced Fish Soup, Fish and Chips, Cereal Prawn, Beef Kway Teow, Sambal Stingray",0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,6
+911,Female,14 and below,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Fish and Chips, Chinese Economy Rice, Japanese Bento",0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+573,Male,25 - 54,"Sliced Fish Soup, Japanese Bento, Fish Head Curry, Black Pepper Crab, Cereal Prawn, Katong laksa ",0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0,0,6
+592,Male,25 - 54,"Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Bak Kut Teh, Hokkien Mee, Katong laksa ",0,1,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,6
+668,Male,15 - 24,"Chili Crab, Chinese Economy Rice, Japanese Bento, Bak Kut Teh, Hokkien Mee, Black Pepper Crab",0,1,0,0,0,0,1,1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,6
+251,Female,55 - 64,"Hainanese Chicken Rice, Fish and Chips, Japanese Bento,Curry laksa, Fish Head Curry, Sambal Stingray",0,0,0,0,1,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,6
+443,Female,25 - 54,"Laksa , Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Hokkien Mee, Satay",1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,6
+645,Male,15 - 24,"Laksa , Char Kway Teow, Fish and Chips, Japanese Bento, Cereal Prawn, Sambal Stingray",1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,6
+35,Female,65 and above,"Char Kway Teow, Sliced Fish Soup, Bak Kut Teh, Hokkien Mee, katong laksa, Crab Bee Hoon Soup",0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,6
+72,Female,65 and above,"Char Kway Teow, Sliced Fish Soup, Bak Kut Teh, Hokkien Mee, katong laksa, Crab Bee Hoon Soup",0,0,0,0,1,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,6
+348,Male,55 - 64,"Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Japanese Bento, Bak Kut Teh, Hokkien Mee",0,0,0,1,0,0,1,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,6
+186,Male,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Crab Bee Hoon Soup",0,0,1,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,6
+759,Female,15 - 24,"Fish and Chips, Japanese Bento, Duck Rice, Bak Kut Teh, Hokkien Mee, Satay",0,1,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,6
+292,Female,55 - 64,"Laksa , Chili Crab, Duck Rice, Fish Head Curry, Bak Kut Teh, Kway Chap",1,1,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,6
+878,Male,14 and below,"Laksa , Char Kway Teow, Fish and Chips, Roti Prata, Cereal Prawn, Satay",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,6
+16,Female,65 and above,"Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Hokkien Mee, Kway Chap, Crab Bee Hoon Soup",0,0,0,0,1,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,6
+584,Male,25 - 54,"Laksa , Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Fish and Chips, Japanese Bento",1,1,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+718,Female,15 - 24,"Laksa , Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice",1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+839,Male,14 and below,"Hainanese Chicken Rice, Fish and Chips, Duck Rice, Bak Kut Teh, Roti Prata, Satay",0,0,0,1,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,6
+755,Female,15 - 24,"Sliced Fish Soup, Japanese Bento,Curry laksa, Duck Rice, Hokkien Mee, Crab Bee Hoon Soup",0,1,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,6
+861,Male,14 and below,"Laksa , Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Roti Prata, Katong laksa ",1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,6
+320,Male,55 - 64,"Hainanese Chicken Rice, Sliced Fish Soup, Fish and Chips, Fish Head Curry, Hokkien Mee, Sambal Stingray",0,0,0,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,6
+943,Female,14 and below,"Roti John, Cereal Prawn, katong laksa, Sambal Stingray, Crab Bee Hoon Soup, Satay",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,6
+978,Female,14 and below,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Fish Head Curry, Kway Chap, Roti Prata",0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,6
+823,Male,14 and below,"Hainanese Chicken Rice, Sliced Fish Soup, Fish and Chips, Japanese Bento, Hokkien Mee, Crab Bee Hoon Soup",0,0,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,6
+230,Female,55 - 64,"Fish and Chips, Japanese Bento,Curry laksa, Hokkien Mee, Beef Kway Teow, Crab Bee Hoon Soup",0,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,6
+923,Female,14 and below,"Sliced Fish Soup, Fish and Chips,Curry laksa, Cereal Prawn, Sambal Stingray, Crab Bee Hoon Soup",0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,6
+703,Female,15 - 24,"Fish and Chips, Japanese Bento, Duck Rice, Hokkien Mee, Black Pepper Crab, Cereal Prawn",0,0,0,0,0,1,0,1,0,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,6
+837,Male,14 and below,"Laksa , Fish and Chips,Curry laksa, Bak Kut Teh, Roti Prata, Katong laksa ",1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,6
+343,Male,55 - 64,"Char Kway Teow, Hainanese Chicken Rice, Chinese Economy Rice, Bak Kut Teh, Hokkien Mee, Kway Chap",0,0,1,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,6
+879,Male,14 and below,"Laksa , Hainanese Chicken Rice, Fish and Chips, Fish Head Curry, Beef Kway Teow, Sambal Stingray",1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1,0,0,6
+493,Female,25 - 54,"Yu Sheng, Duck Rice, Bak Kut Teh, Kway Chap, Roti Prata, Sambal Stingray",0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,1,0,0,0,0,0,1,0,0,6
+99,Female,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Crab Bee Hoon Soup",0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,6
+334,Male,55 - 64,"Hainanese Chicken Rice, Sliced Fish Soup, Fish Head Curry, Cereal Prawn, Sambal Stingray, Crab Bee Hoon Soup",0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,6
+266,Female,55 - 64,"Laksa , Char Kway Teow, Hainanese Chicken Rice, Fish Head Curry, Hokkien Mee, Katong laksa ",1,0,0,1,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,6
+73,Female,65 and above,"Laksa , Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, katong laksa, Crab Bee Hoon Soup",0,0,0,0,1,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,6
+209,Female,55 - 64,"Laksa , Char Kway Teow, Hainanese Chicken Rice, Bak Kut Teh, Kway Chap, Katong laksa ",1,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,6
+817,Male,14 and below,"Sliced Fish Soup, Fish and Chips, Japanese Bento,Curry laksa, Bak Kut Teh, Kway Chap",0,0,0,0,1,1,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,6
+396,Male,55 - 64,"Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Black Pepper Crab, katong laksa, Sambal Stingray",0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,6
+714,Female,15 - 24,"Hainanese Chicken Rice, Chinese Economy Rice, Hokkien Mee, Roti Prata, Cereal Prawn, Satay",0,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,6
+849,Male,14 and below,"Sliced Fish Soup, Fish and Chips, Japanese Bento,Curry laksa, Hokkien Mee, Roti Prata",0,0,0,0,1,1,0,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6
+487,Female,25 - 54,"Laksa , Japanese Bento, Hokkien Mee, Cereal Prawn, Sambal Stingray, Satay",1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1,6
+976,Female,14 and below,"Laksa , Hainanese Chicken Rice, Fish Head Curry, Hokkien Mee, Roti Prata, Satay",1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,6
+511,Male,25 - 54,"Char Kway Teow, Hainanese Chicken Rice, Duck Rice, Fish Head Curry, Sambal Stingray, Satay",0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,6
+77,Female,65 and above,"Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Hokkien Mee, Crab Bee Hoon Soup",0,0,0,0,1,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,6
+171,Male,65 and above,"Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Kway Chap, Crab Bee Hoon Soup",0,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,6
+806,Male,14 and below,"Laksa , Char Kway Teow, Fish and Chips, Roti Prata, Cereal Prawn, Satay",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,6
+970,Female,14 and below,"Chinese Economy Rice, Yu Sheng, Duck Rice, Hokkien Mee, Roti Prata, Roti John",1,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,6
+453,Female,25 - 54,"Sliced Fish Soup,Curry laksa, Duck Rice, Bak Kut Teh, Cereal Prawn, Crab Bee Hoon Soup",0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,6
+855,Male,14 and below,"Sliced Fish Soup, Fish and Chips, Chinese Economy Rice, Japanese Bento, Hokkien Mee, Roti Prata",0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6
+441,Female,25 - 54,"Hainanese Chicken Rice, Sliced Fish Soup,Curry laksa, Bak Kut Teh, Kway Chap, Sambal Stingray",0,0,0,1,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,6
+364,Male,55 - 64,"Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Fish Head Curry, Bak Kut Teh, Hokkien Mee",0,0,0,1,0,0,1,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,6
+358,Male,55 - 64,"Char Kway Teow, Sliced Fish Soup, Fish and Chips, Hokkien Mee, katong laksa, Crab Bee Hoon Soup",0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,6
+791,Female,15 - 24,"Laksa , Chili Crab, Japanese Bento, Kway Chap, Roti Prata, Sambal Stingray",1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,6
+671,Male,15 - 24,"Chili Crab, Bak Kut Teh, Hokkien Mee, Kway Chap, Sambal Stingray, Satay",0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,1,6
+587,Male,25 - 54,"Laksa , Char Kway Teow, Japanese Bento, Bak Kut Teh, Cereal Prawn, Satay",1,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,6
+112,Male,65 and above,"Char Kway Teow, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Kway Chap, Crab Bee Hoon Soup",0,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,6
+274,Female,55 - 64,"Hainanese Chicken Rice, Japanese Bento, Fish Head Curry, Bak Kut Teh, Sambal Stingray, Crab Bee Hoon Soup",1,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,6
+398,Male,55 - 64,"Laksa , Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Yu Sheng, Black Pepper Crab",1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6
+768,Female,15 - 24,"Hainanese Chicken Rice, Chinese Economy Rice, Hokkien Mee, Roti Prata, Cereal Prawn, Satay",0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,1,6
+663,Male,15 - 24,"Fish and Chips, Duck Rice, Bak Kut Teh, Roti Prata, Cereal Prawn, Crab Bee Hoon Soup",0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,1,0,0,0,1,0,6
+71,Female,65 and above,"Laksa , Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, katong laksa, Crab Bee Hoon Soup",0,0,0,0,1,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,6
+480,Female,25 - 54,"Char Kway Teow, Fish and Chips, Japanese Bento, Bak Kut Teh, Hokkien Mee, Satay",0,0,1,0,0,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,6
+51,Female,65 and above,"Sliced Fish Soup, Chinese Economy Rice, Japanese Bento, Yu Sheng, Bak Kut Teh, Crab Bee Hoon Soup",0,0,0,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,6
+27,Female,65 and above,"Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Hokkien Mee, katong laksa, Crab Bee Hoon Soup",0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,5
+80,Female,65 and above,"Laksa , Sliced Fish Soup, Chinese Economy Rice, Yu Sheng, Bak Kut Teh, Crab Bee Hoon Soup",0,0,0,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,6
+623,Male,15 - 24,"Chili Crab, Bak Kut Teh, Hokkien Mee, Kway Chap, Sambal Stingray, Satay",0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,1,6
+999,Female,14 and below,"Sliced Fish Soup, Fish and Chips, Japanese Bento, Roti Prata, Cereal Prawn, Satay",0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,6
+15,Female,65 and above,"Laksa , Sliced Fish Soup, Chinese Economy Rice, Hokkien Mee, Crab Bee Hoon Soup, Satay",1,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,6
+880,Male,14 and below,"Laksa , Chili Crab, Hainanese Chicken Rice, Fish and Chips, Roti John, Katong laksa ",1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,6
+287,Female,55 - 64,"Laksa , Char Kway Teow, Sliced Fish Soup, Fish Head Curry, Hokkien Mee, Beef Kway Teow",1,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,6
+167,Male,65 and above,"Laksa , Sliced Fish Soup, Chinese Economy Rice,Curry laksa, Bak Kut Teh, Crab Bee Hoon Soup",0,0,1,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,6
+797,Female,15 - 24,"Laksa , Hokkien Mee, Black Pepper Crab, Cereal Prawn, Sambal Stingray, Satay",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,6
+846,Male,14 and below,"Fish and Chips, Duck Rice, Bak Kut Teh, Kway Chap, Roti Prata, Cereal Prawn",0,0,0,0,0,1,0,0,0,0,1,0,1,0,1,1,0,0,1,0,0,0,0,0,6
+785,Female,15 - 24,"Laksa , Chili Crab, Hainanese Chicken Rice, Japanese Bento, Roti Prata, Cereal Prawn",1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,6
+414,Female,25 - 54,"Laksa ,Curry laksa, Fish Head Curry, Bak Kut Teh, katong laksa, Crab Bee Hoon Soup",1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,6
+376,Male,55 - 64,"Hainanese Chicken Rice, Sliced Fish Soup, Fish Head Curry, Cereal Prawn, Sambal Stingray, Crab Bee Hoon Soup",0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,1,0,6
+429,Female,25 - 54,"Laksa , Sliced Fish Soup, Japanese Bento, Hokkien Mee, Cereal Prawn, Crab Bee Hoon Soup",1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,6
+399,Male,55 - 64,"Hainanese Chicken Rice, Duck Rice, Black Pepper Crab, Cereal Prawn, Sambal Stingray, Satay",0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,1,0,1,6
+514,Male,25 - 54,"Laksa , Chili Crab, Hainanese Chicken Rice, Japanese Bento, Fish Head Curry, Black Pepper Crab",1,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,6
+85,Female,65 and above,"Laksa , Char Kway Teow, Sliced Fish Soup, Chinese Economy Rice, Cereal Prawn, Crab Bee Hoon Soup",0,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,6
+169,Male,65 and above,"Sliced Fish Soup, Bak Kut Teh, Kway Chap, Black Pepper Crab, katong laksa, Crab Bee Hoon Soup",0,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,6
+101,Male,65 and above,"Hainanese Chicken Rice, Sliced Fish Soup, Roti Prata, Cereal Prawn, Crab Bee Hoon Soup, Satay",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,6
+677,Male,15 - 24,"Hainanese Chicken Rice, Fish and Chips, Chinese Economy Rice, Hokkien Mee, Roti Prata, Satay",0,0,0,1,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,6
+459,Female,25 - 54,"Chili Crab, Duck Rice, Kway Chap, Black Pepper Crab, katong laksa, Sambal Stingray",0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,6
+461,Female,25 - 54,"Laksa , Char Kway Teow, Sliced Fish Soup, Japanese Bento, Bak Kut Teh, Beef Kway Teow",1,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,6
+683,Male,15 - 24,"Sliced Fish Soup,Curry laksa, Bak Kut Teh, Sambal Stingray, Crab Bee Hoon Soup, Satay",0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,6
+701,Female,15 - 24,"Sliced Fish Soup, Japanese Bento,Curry laksa, Duck Rice, Hokkien Mee, Crab Bee Hoon Soup",0,0,0,0,1,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,6
+804,Male,14 and below,"Hainanese Chicken Rice, Fish and Chips, Chinese Economy Rice, Japanese Bento, Roti Prata, Cereal Prawn",0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,6
+820,Male,14 and below,"Hainanese Chicken Rice, Sliced Fish Soup, Japanese Bento, Cereal Prawn, Beef Kway Teow, Katong laksa ",0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,6
+61,Female,65 and above,"Sliced Fish Soup, Chinese Economy Rice, Japanese Bento, Bak Kut Teh, Kway Chap, Crab Bee Hoon Soup",0,0,0,0,1,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,6
+210,Female,55 - 64,"Fish and Chips, Japanese Bento,Curry laksa, Hokkien Mee, Beef Kway Teow, Crab Bee Hoon Soup",0,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,6
+202,Female,55 - 64,"Laksa , Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Fish and Chips",1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+579,Male,25 - 54,"Char Kway Teow, Hainanese Chicken Rice, Chinese Economy Rice, Hokkien Mee, Kway Chap, Roti Prata",0,0,1,1,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,6
+599,Male,25 - 54,"Chili Crab, Hainanese Chicken Rice,Curry laksa, Bak Kut Teh, Black Pepper Crab, Sambal Stingray",0,1,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,6
+794,Female,15 - 24,"Chili Crab, Hainanese Chicken Rice,Curry laksa, Roti John, Cereal Prawn, Satay",0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,6
+161,Male,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Crab Bee Hoon Soup",0,0,1,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,6
+750,Female,15 - 24,"Sliced Fish Soup, Japanese Bento, Hokkien Mee, Kway Chap, Roti Prata, Cereal Prawn",0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,6
+153,Male,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Kway Chap, Sambal Stingray",0,0,1,1,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,6
+601,Male,15 - 24,"Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Bak Kut Teh, Hokkien Mee, Cereal Prawn",0,0,0,1,0,1,0,1,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,6
+920,Female,14 and below,"Sliced Fish Soup, Fish and Chips, Japanese Bento,Curry laksa, Hokkien Mee, Roti Prata",0,0,0,0,1,1,0,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6
+864,Male,14 and below,"Char Kway Teow, Fish and Chips, Hokkien Mee, Roti Prata, Roti John, Sambal Stingray",0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,6
+540,Male,25 - 54,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Crab Bee Hoon Soup",0,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,6
+639,Male,15 - 24,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Hokkien Mee, Cereal Prawn",0,0,1,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,6
+397,Male,55 - 64,"Chili Crab, Hainanese Chicken Rice, Fish and Chips, Black Pepper Crab, Cereal Prawn, Katong laksa ",0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,6
+882,Male,14 and below,"Fish and Chips, Duck Rice, Bak Kut Teh, Kway Chap, Roti Prata, Cereal Prawn",0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,1,0,1,0,0,1,6
+448,Female,25 - 54,"Laksa , Sliced Fish Soup, Chinese Economy Rice, Japanese Bento, Duck Rice, Roti Prata",1,0,0,0,1,0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,6
+330,Male,55 - 64,"Chili Crab, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice,Curry laksa, Fish Head Curry",0,1,0,1,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,6
+948,Female,14 and below,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Fish Head Curry, Kway Chap, Roti Prata",0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,6
+990,Female,14 and below,"Laksa , Sliced Fish Soup, Japanese Bento,Curry laksa, Fish Head Curry, Roti Prata",1,0,0,0,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,6
+130,Male,65 and above,"Chili Crab, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Sambal Stingray, Crab Bee Hoon Soup",1,0,1,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,6
+545,Male,25 - 54,"Laksa , Chili Crab, Char Kway Teow,Curry laksa, Fish Head Curry, Katong laksa ",1,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,6
+574,Male,25 - 54,"Laksa , Chili Crab, Hainanese Chicken Rice, Japanese Bento, Fish Head Curry, Black Pepper Crab",1,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,6
+771,Female,15 - 24,"Laksa , Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Fish Head Curry, Hokkien Mee",1,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,6
+702,Female,15 - 24,"Laksa , Hainanese Chicken Rice, Japanese Bento,Curry laksa, Bak Kut Teh, Kway Chap",1,0,0,1,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,6
+729,Female,15 - 24,"Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Fish Head Curry, Bak Kut Teh, Hokkien Mee",0,1,1,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,6
+337,Male,55 - 64,"Laksa , Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Fish Head Curry, Sambal Stingray",1,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,6
+445,Female,25 - 54,"Bak Kut Teh, Kway Chap, Black Pepper Crab, Sambal Stingray, Crab Bee Hoon Soup, Satay",0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,1,0,1,6
+248,Female,55 - 64,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Beef Kway Teow, Sambal Stingray, Crab Bee Hoon Soup",0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,6
+295,Female,55 - 64,"Sliced Fish Soup, Chinese Economy Rice, Yu Sheng, Duck Rice, Bak Kut Teh, Kway Chap",0,0,0,0,1,0,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,6
+152,Male,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Kway Chap, Beef Kway Teow",0,0,1,1,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,6
+546,Male,25 - 54,"Laksa , Char Kway Teow, Bak Kut Teh, Hokkien Mee, Black Pepper Crab, Cereal Prawn",1,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,6
+310,Male,55 - 64,"Laksa , Hainanese Chicken Rice, Hokkien Mee, Kway Chap, katong laksa, Sambal Stingray",1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,6
+20,Female,65 and above,"Laksa , Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Crab Bee Hoon Soup",1,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,6
+486,Female,25 - 54,"Laksa ,Curry laksa, Fish Head Curry, Bak Kut Teh, katong laksa, Crab Bee Hoon Soup",1,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,6
+433,Female,25 - 54,"Laksa , Char Kway Teow, Fish and Chips, Japanese Bento, Hokkien Mee, Cereal Prawn",1,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,6
+575,Male,25 - 54,"Laksa , Chili Crab, Char Kway Teow,Curry laksa, Fish Head Curry, Katong laksa ",1,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,6
+811,Male,14 and below,"Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Roti Prata, Cereal Prawn, Satay",0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,6
+45,Female,65 and above,"Chili Crab, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Kway Chap, Crab Bee Hoon Soup",0,0,0,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,6
+375,Male,55 - 64,"Chili Crab, Hainanese Chicken Rice, Fish Head Curry, Hokkien Mee, Black Pepper Crab, Sambal Stingray",0,0,1,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,1,6
+922,Female,14 and below,"Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Hokkien Mee, Cereal Prawn, Crab Bee Hoon Soup",0,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,6
+306,Male,55 - 64,"Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Japanese Bento, Bak Kut Teh, Hokkien Mee",0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,6
+964,Female,14 and below,"Fish and Chips, Japanese Bento, Duck Rice, Bak Kut Teh, Roti Prata, Satay",0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,6
+349,Male,55 - 64,"Laksa , Char Kway Teow, Duck Rice, Fish Head Curry, Sambal Stingray, Satay",1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,6
+315,Male,55 - 64,"Hainanese Chicken Rice, Duck Rice, Black Pepper Crab, Cereal Prawn, Sambal Stingray, Satay",0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,1,0,1,6
+979,Female,14 and below,"Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Hokkien Mee, Kway Chap, Roti Prata",0,0,0,1,0,1,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,6
+384,Male,55 - 64,"Char Kway Teow, Fish Head Curry, Bak Kut Teh, Hokkien Mee, Roti Prata, Katong laksa ",0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,0,0,0,6
+191,Male,65 and above,"Char Kway Teow, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, katong laksa, Crab Bee Hoon Soup",0,0,1,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,6
+497,Female,25 - 54,"Laksa , Char Kway Teow, Sliced Fish Soup, Japanese Bento, Bak Kut Teh, Beef Kway Teow",1,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,6
+58,Female,65 and above,"Laksa , Hainanese Chicken Rice, Sliced Fish Soup, Japanese Bento,Curry laksa, Satay",0,0,0,0,1,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,6
+211,Female,55 - 64,"Hainanese Chicken Rice, Fish and Chips, Japanese Bento,Curry laksa, Fish Head Curry, Sambal Stingray",0,0,0,0,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,6
+321,Male,55 - 64,"Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Black Pepper Crab, Beef Kway Teow",0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,6
+213,Female,55 - 64,"Laksa , Fish and Chips, Japanese Bento, Cereal Prawn, katong laksa, Crab Bee Hoon Soup",1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,6
+662,Male,15 - 24,"Laksa , Chili Crab, Char Kway Teow, Hainanese Chicken Rice,Curry laksa, Bak Kut Teh",1,1,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6
+938,Female,14 and below,"Hainanese Chicken Rice, Fish and Chips, Hokkien Mee, Roti Prata, Sambal Stingray, Satay",0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,6
+146,Male,65 and above,"Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Kway Chap, Crab Bee Hoon Soup",0,0,1,1,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,6
+204,Female,55 - 64,"Laksa , Char Kway Teow, Japanese Bento, Duck Rice, Fish Head Curry, Kway Chap",1,0,1,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,6
+524,Male,25 - 54,"Laksa , Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Fish and Chips, Japanese Bento",1,1,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+669,Male,15 - 24,"Chili Crab, Sliced Fish Soup, Bak Kut Teh, Hokkien Mee, Cereal Prawn, Sambal Stingray",0,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,6
+644,Male,15 - 24,"Hainanese Chicken Rice, Chinese Economy Rice, Japanese Bento,Curry laksa, Bak Kut Teh, Hokkien Mee",0,0,0,1,0,0,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,6
+723,Female,15 - 24,"Laksa , Hainanese Chicken Rice, Yu Sheng, Bak Kut Teh, Kway Chap, Roti Prata",1,0,0,1,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,6
+426,Female,25 - 54,"Chili Crab, Char Kway Teow, Fish and Chips, Japanese Bento, Black Pepper Crab, Crab Bee Hoon Soup",0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,6
+8,Female,65 and above,"Chili Crab, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Kway Chap, Crab Bee Hoon Soup",0,1,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,6
+302,Male,55 - 64,"Laksa , Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Fish and Chips, Black Pepper Crab",1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,6
+179,Male,65 and above,"Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Duck Rice, Bak Kut Teh, Crab Bee Hoon Soup",0,0,1,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,6
+164,Male,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Kway Chap",0,0,1,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,6
+589,Male,25 - 54,"Laksa , Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Japanese Bento, Fish Head Curry",1,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,6
+462,Female,25 - 54,"Chili Crab, Char Kway Teow, Fish and Chips, Japanese Bento, Black Pepper Crab, Crab Bee Hoon Soup",0,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,6
+281,Female,55 - 64,"Laksa , Chili Crab, Fish Head Curry, Kway Chap, katong laksa, Crab Bee Hoon Soup",1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,6
+763,Female,15 - 24,"Chili Crab, Hainanese Chicken Rice, Fish and Chips,Curry laksa, Fish Head Curry, Roti Prata",0,0,0,1,1,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,6
+939,Female,14 and below,"Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Kway Chap, Roti Prata, Satay",0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,6
+956,Female,14 and below,"Hainanese Chicken Rice, Sliced Fish Soup, Fish and Chips, Japanese Bento, Hokkien Mee, Cereal Prawn",0,0,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,6
+62,Female,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Crab Bee Hoon Soup",0,0,0,0,1,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,6
+192,Male,65 and above,"Laksa , Sliced Fish Soup, Chinese Economy Rice,Curry laksa, Bak Kut Teh, Crab Bee Hoon Soup",0,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,6
+460,Female,25 - 54,"Laksa , Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Yu Sheng, Fish Head Curry",1,0,0,1,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,6
+221,Female,55 - 64,"Laksa , Chili Crab, Fish Head Curry, Kway Chap, katong laksa, Crab Bee Hoon Soup",1,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,6
+316,Male,55 - 64,"Char Kway Teow, Sliced Fish Soup, Fish and Chips, Hokkien Mee, katong laksa, Crab Bee Hoon Soup",0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,6
+17,Female,65 and above,"Chili Crab, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, katong laksa, Sambal Stingray",0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,6
+522,Male,25 - 54,"Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Hokkien Mee",0,1,1,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6
+691,Male,15 - 24,"Laksa , Chili Crab,Curry laksa, Fish Head Curry, katong laksa, Sambal Stingray",1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,6
+642,Male,15 - 24,"Chili Crab, Fish and Chips, Chinese Economy Rice,Curry laksa, Fish Head Curry, Bak Kut Teh",0,1,0,0,0,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,6
+620,Male,15 - 24,"Chili Crab, Chinese Economy Rice, Japanese Bento, Bak Kut Teh, Hokkien Mee, Black Pepper Crab",0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,6
+431,Female,25 - 54,"Laksa , Chili Crab, Char Kway Teow, Fish and Chips, Japanese Bento, Cereal Prawn",1,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,6
+111,Male,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Crab Bee Hoon Soup",0,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,6
+458,Female,25 - 54,"Sliced Fish Soup,Curry laksa, Yu Sheng, Hokkien Mee, Kway Chap, Cereal Prawn",0,0,0,0,1,0,0,0,1,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,6
+471,Female,25 - 54,"Laksa , Sliced Fish Soup, Hokkien Mee, Sambal Stingray, Crab Bee Hoon Soup, Satay",1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,6
+897,Male,14 and below,"Laksa , Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Roti Prata, Katong laksa ",1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,6
+481,Female,25 - 54,"Bak Kut Teh, Kway Chap, Black Pepper Crab, Sambal Stingray, Crab Bee Hoon Soup, Satay",0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,1,0,1,6
+808,Male,14 and below,"Laksa , Chili Crab, Hainanese Chicken Rice, Fish and Chips, Roti John, Katong laksa ",1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,6
+457,Female,25 - 54,"Yu Sheng, Duck Rice, Bak Kut Teh, Kway Chap, Roti Prata, Sambal Stingray",0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,1,0,0,0,0,0,1,0,0,6
+10,Female,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Japanese Bento, Crab Bee Hoon Soup",0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6
+983,Female,14 and below,"Sliced Fish Soup, Fish and Chips,Curry laksa, Cereal Prawn, Sambal Stingray, Crab Bee Hoon Soup",0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,6
+993,Female,14 and below,"Hainanese Chicken Rice, Japanese Bento,Curry laksa, Duck Rice, Roti Prata, Cereal Prawn",0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,6
+611,Male,15 - 24,"Fish and Chips, Chinese Economy Rice, Japanese Bento, Hokkien Mee, Black Pepper Crab, Roti John",0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,6
+517,Male,25 - 54,"Hainanese Chicken Rice, Fish and Chips, Roti Prata, Roti John, Sambal Stingray, Satay",0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,6
+951,Female,14 and below,"Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Yu Sheng, Cereal Prawn, Satay",0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,6
+995,Female,14 and below,"Char Kway Teow, Sliced Fish Soup, Fish and Chips, Cereal Prawn, Beef Kway Teow, Sambal Stingray",0,1,1,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6
+532,Male,25 - 54,"Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Bak Kut Teh, Hokkien Mee, Katong laksa ",0,1,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,6
+636,Male,15 - 24,"Laksa , Hainanese Chicken Rice, Japanese Bento, Cereal Prawn, katong laksa, Satay",1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,6
+550,Male,25 - 54,"Char Kway Teow, Hainanese Chicken Rice, Roti John, Cereal Prawn, Sambal Stingray, Satay",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,6
+783,Female,15 - 24,"Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Fish Head Curry, Bak Kut Teh, Hokkien Mee",0,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,6
+769,Female,15 - 24,"Laksa , Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Fish and Chips, Duck Rice",1,0,1,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,6
+150,Male,65 and above,"Chili Crab, Char Kway Teow, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Crab Bee Hoon Soup",0,0,1,1,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,6
+326,Male,55 - 64,"Bak Kut Teh, Hokkien Mee, Kway Chap, Roti John, Cereal Prawn, Katong laksa ",0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0,1,0,0,0,6
+825,Male,14 and below,"Laksa , Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Roti Prata, Katong laksa ",1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,6
+831,Male,14 and below,"Chili Crab, Japanese Bento, Roti John, katong laksa, Crab Bee Hoon Soup, Satay",0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,6
+173,Male,65 and above,"Chili Crab, Char Kway Teow, Sliced Fish Soup, Chinese Economy Rice, Black Pepper Crab, Beef Kway Teow",0,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,6
+572,Male,25 - 54,"Laksa , Hainanese Chicken Rice,Curry laksa, Yu Sheng, Hokkien Mee, Black Pepper Crab",1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,6
+770,Female,15 - 24,"Laksa , Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Fish and Chips, Japanese Bento",1,0,1,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6
+31,Female,65 and above,"Chili Crab, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Kway Chap, Katong laksa",0,1,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,6
+812,Male,14 and below,"Chili Crab, Sliced Fish Soup, Fish and Chips, Japanese Bento, Roti Prata, Satay",0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,6
+382,Male,55 - 64,"Chili Crab, Char Kway Teow, Fish and Chips, Bak Kut Teh, Sambal Stingray, Crab Bee Hoon Soup",0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,1,0,6
+488,Female,25 - 54,"Laksa , Chili Crab, Char Kway Teow, Sliced Fish Soup,Curry laksa, Fish Head Curry",1,1,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,6
+616,Male,15 - 24,"Laksa , Hainanese Chicken Rice, Chinese Economy Rice, Bak Kut Teh, katong laksa, Satay",1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,6
+840,Male,14 and below,"Hainanese Chicken Rice, Fish and Chips, Chinese Economy Rice, Japanese Bento, Roti Prata, Cereal Prawn",0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,6
+650,Male,15 - 24,"Char Kway Teow, Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Roti Prata, Roti John",0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,6
+185,Male,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Crab Bee Hoon Soup",0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,6
+41,Female,65 and above,"Sliced Fish Soup, Chinese Economy Rice, Yu Sheng, Bak Kut Teh, Hokkien Mee, Crab Bee Hoon Soup",0,0,0,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,6
+932,Female,14 and below,"Laksa , Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Hokkien Mee, Roti Prata",1,0,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6
+570,Male,25 - 54,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Crab Bee Hoon Soup",0,0,1,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,6
+4,Female,65 and above,"Sliced Fish Soup, Chinese Economy Rice, Yu Sheng, Bak Kut Teh, Hokkien Mee, Crab Bee Hoon Soup",0,0,0,0,1,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,6
+845,Male,14 and below,"Laksa , Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Fish and Chips, Japanese Bento",1,1,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+724,Female,15 - 24,"Fish and Chips, Hokkien Mee, Cereal Prawn, katong laksa, Sambal Stingray, Satay",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,1,6
+615,Male,15 - 24,"Fish and Chips, Duck Rice, Bak Kut Teh, Roti Prata, Cereal Prawn, Crab Bee Hoon Soup",0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,1,0,0,0,1,0,6
+960,Female,14 and below,"Laksa , Sliced Fish Soup, Japanese Bento,Curry laksa, Fish Head Curry, Roti Prata",1,0,0,0,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,6
+775,Female,15 - 24,"Hainanese Chicken Rice, Fish and Chips, Chinese Economy Rice, Duck Rice, Fish Head Curry, Hokkien Mee",0,0,0,1,0,1,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,6
+198,Male,65 and above,"Chili Crab, Char Kway Teow, Sliced Fish Soup, Chinese Economy Rice, Black Pepper Crab, Beef Kway Teow",0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,6
+743,Female,15 - 24,"Laksa , Hokkien Mee, Black Pepper Crab, Cereal Prawn, Sambal Stingray, Satay",1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,6
+600,Male,25 - 54,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Crab Bee Hoon Soup",0,0,1,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,6
+565,Male,25 - 54,"Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Fish and Chips, Chinese Economy Rice",0,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+381,Male,55 - 64,"Laksa , Chili Crab,Curry laksa, Fish Head Curry, Roti Prata, Katong laksa ",1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,6
+404,Female,25 - 54,"Sliced Fish Soup, Fish and Chips, Hokkien Mee, Kway Chap, Roti Prata, Cereal Prawn",0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,6
+79,Female,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Crab Bee Hoon Soup",1,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,6
+32,Female,65 and above,"Sliced Fish Soup, Chinese Economy Rice, Japanese Bento, Hokkien Mee, Beef Kway Teow, Crab Bee Hoon Soup",0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,6
+720,Female,15 - 24,"Laksa , Sliced Fish Soup, Japanese Bento,Curry laksa, Duck Rice, Fish Head Curry",1,0,0,0,1,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,6
+625,Male,15 - 24,"Laksa , Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Roti Prata, Sambal Stingray",1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,6
+649,Male,15 - 24,"Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Bak Kut Teh, Hokkien Mee, Cereal Prawn",0,0,0,1,0,1,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,6
+224,Female,55 - 64,"Laksa , Char Kway Teow, Japanese Bento, Duck Rice, Fish Head Curry, Kway Chap",1,0,0,1,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,6
+232,Female,55 - 64,"Laksa , Chili Crab, Duck Rice, Fish Head Curry, Bak Kut Teh, Kway Chap",1,1,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,6
+168,Male,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Katong laksa",0,0,1,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,6
+19,Female,65 and above,"Char Kway Teow, Fish Head Curry, Black Pepper Crab, Roti John, Beef Kway Teow, Satay",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,1,6
+727,Female,15 - 24,"Chili Crab, Japanese Bento, Duck Rice, Bak Kut Teh, Kway Chap, Sambal Stingray",0,1,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,6
+446,Female,25 - 54,"Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Fish Head Curry, Hokkien Mee, Crab Bee Hoon Soup",0,0,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,6
+308,Male,55 - 64,"Laksa , Chili Crab, Char Kway Teow, Chinese Economy Rice, Bak Kut Teh, Kway Chap",1,1,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,6
+26,Female,65 and above,"Laksa , Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, katong laksa, Crab Bee Hoon Soup",1,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,6
+629,Male,15 - 24,"Hainanese Chicken Rice, Fish and Chips, Chinese Economy Rice, Hokkien Mee, Roti Prata, Satay",0,0,0,1,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,6
+427,Female,25 - 54,"Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Kway Chap, Cereal Prawn, Katong laksa ",0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,6
+867,Male,14 and below,"Chili Crab, Japanese Bento, Roti John, katong laksa, Crab Bee Hoon Soup, Satay",0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,6
+937,Female,14 and below,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Fish and Chips, Japanese Bento, Roti Prata",0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6
+165,Male,65 and above,"Laksa , Char Kway Teow, Sliced Fish Soup,Curry laksa, Kway Chap, Crab Bee Hoon Soup",0,0,1,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,6
+621,Male,15 - 24,"Chili Crab, Sliced Fish Soup, Bak Kut Teh, Hokkien Mee, Cereal Prawn, Sambal Stingray",0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1,6
+250,Female,55 - 64,"Fish and Chips, Japanese Bento,Curry laksa, Hokkien Mee, Beef Kway Teow, Crab Bee Hoon Soup",0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,6
+96,Female,65 and above,"Char Kway Teow, Sliced Fish Soup, Chinese Economy Rice, Japanese Bento, Yu Sheng, Crab Bee Hoon Soup",0,0,0,1,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,6
+389,Male,55 - 64,"Chili Crab, Duck Rice, Fish Head Curry, Bak Kut Teh, Hokkien Mee, Black Pepper Crab",0,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,6
+42,Female,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Crab Bee Hoon Soup",0,0,0,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,6
+22,Female,65 and above,"Char Kway Teow, Sliced Fish Soup, Chinese Economy Rice, Japanese Bento, Yu Sheng, Crab Bee Hoon Soup",0,0,1,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6
+278,Female,55 - 64,"Chili Crab, Hainanese Chicken Rice, Fish and Chips, Fish Head Curry, Black Pepper Crab, Sambal Stingray",1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1,6
+256,Female,55 - 64,"Char Kway Teow, Hainanese Chicken Rice, Bak Kut Teh, Kway Chap, Beef Kway Teow, Katong laksa ",0,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,0,0,6
+544,Male,25 - 54,"Laksa , Chili Crab, Hainanese Chicken Rice, Japanese Bento, Fish Head Curry, Black Pepper Crab",1,1,0,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,6
+826,Male,14 and below,"Fish and Chips, Japanese Bento, Fish Head Curry, Hokkien Mee, Cereal Prawn, Katong laksa ",0,0,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,0,1,0,1,0,0,0,6
+679,Male,15 - 24,"Char Kway Teow, Fish and Chips, Japanese Bento, Bak Kut Teh, Hokkien Mee, Roti Prata",0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,1,0,6
+74,Female,65 and above,"Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Sambal Stingray, Crab Bee Hoon Soup, Satay",0,0,0,0,1,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,6
+936,Female,14 and below,"Hainanese Chicken Rice, Sliced Fish Soup, Fish and Chips,Curry laksa, Yu Sheng, Roti Prata",0,0,0,1,1,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6
+613,Male,15 - 24,"Laksa , Chili Crab,Curry laksa, Roti Prata, Black Pepper Crab, Cereal Prawn",1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,6
+368,Male,55 - 64,"Bak Kut Teh, Hokkien Mee, Kway Chap, Roti John, Cereal Prawn, Katong laksa ",0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,1,1,0,1,0,0,0,6
+301,Male,55 - 64,"Char Kway Teow, Hainanese Chicken Rice, Chinese Economy Rice, Bak Kut Teh, Hokkien Mee, Kway Chap",0,0,1,1,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,6
+790,Female,15 - 24,"Hainanese Chicken Rice, Sliced Fish Soup, Fish and Chips, Duck Rice, Hokkien Mee, Black Pepper Crab",0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,6
+908,Female,14 and below,"Hainanese Chicken Rice, Fish and Chips, Hokkien Mee, Roti Prata, Sambal Stingray, Satay",0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,6
+408,Female,25 - 54,"Char Kway Teow, Fish and Chips, Japanese Bento, Bak Kut Teh, Hokkien Mee, Satay",0,0,1,0,0,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,6
+231,Female,55 - 64,"Hainanese Chicken Rice, Fish and Chips, Japanese Bento,Curry laksa, Fish Head Curry, Sambal Stingray",0,0,0,1,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,6
+949,Female,14 and below,"Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Hokkien Mee, Kway Chap, Roti Prata",0,0,0,1,0,1,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,6
+975,Female,14 and below,"Laksa , Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Kway Chap, Roti Prata",1,0,0,0,0,1,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,6
+57,Female,65 and above,"Laksa , Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Crab Bee Hoon Soup",0,0,0,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,6
+894,Male,14 and below,"Laksa , Char Kway Teow,Curry laksa, Fish Head Curry, Bak Kut Teh, Katong laksa ",1,0,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,6
+986,Female,14 and below,"Hainanese Chicken Rice, Sliced Fish Soup, Fish and Chips, Japanese Bento, Hokkien Mee, Cereal Prawn",0,0,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,6
+49,Female,65 and above,"Sliced Fish Soup, Chinese Economy Rice, Hokkien Mee, Sambal Stingray, Crab Bee Hoon Soup, Satay",0,0,0,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,6
+237,Female,55 - 64,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup,Curry laksa, Duck Rice, Roti John",0,0,0,1,1,1,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6
+905,Female,14 and below,"Hainanese Chicken Rice, Fish and Chips, Chinese Economy Rice, Japanese Bento, Hokkien Mee, Roti Prata",0,0,0,1,0,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6
+60,Female,65 and above,"Sliced Fish Soup, Yu Sheng, Duck Rice, Bak Kut Teh, Hokkien Mee, Crab Bee Hoon Soup",0,0,0,0,1,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,6
+875,Male,14 and below,"Hainanese Chicken Rice, Fish and Chips, Duck Rice, Bak Kut Teh, Roti Prata, Satay",0,0,0,1,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,6
+285,Female,55 - 64,"Laksa , Char Kway Teow,Curry laksa, Hokkien Mee, Roti Prata, Satay",1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,1,6
+912,Female,14 and below,"Hainanese Chicken Rice, Sliced Fish Soup, Fish and Chips, Chinese Economy Rice, Duck Rice, Kway Chap",0,0,0,1,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,6
+516,Male,25 - 54,"Laksa , Char Kway Teow, Bak Kut Teh, Hokkien Mee, Black Pepper Crab, Cereal Prawn",1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,6
+933,Female,14 and below,"Hainanese Chicken Rice, Bak Kut Teh, Hokkien Mee, Kway Chap, Roti Prata, Satay",0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,1,6
+477,Female,25 - 54,"Hainanese Chicken Rice, Sliced Fish Soup,Curry laksa, Bak Kut Teh, Kway Chap, Sambal Stingray",0,0,0,1,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,6
+33,Female,65 and above,"Laksa , Chili Crab, Sliced Fish Soup, Fish Head Curry, Roti Prata, Roti John",1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,6
+858,Male,14 and below,"Laksa , Char Kway Teow,Curry laksa, Fish Head Curry, Bak Kut Teh, Katong laksa ",1,0,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,6
+30,Female,65 and above,"Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Yu Sheng, Bak Kut Teh, Hokkien Mee",0,0,0,1,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,6
+184,Male,65 and above,"Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Roti Prata, Roti John, Crab Bee Hoon Soup",0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,6
+889,Male,14 and below,"Sliced Fish Soup, Fish and Chips, Japanese Bento,Curry laksa, Bak Kut Teh, Kway Chap",0,0,0,0,0,1,0,0,1,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,6
+473,Female,25 - 54,"Laksa , Hainanese Chicken Rice, Sliced Fish Soup, Kway Chap, Roti Prata, Sambal Stingray",1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,6
+492,Female,25 - 54,"Fish and Chips, Roti Prata, Roti John, Beef Kway Teow, Sambal Stingray, Satay",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,1,6
+205,Female,55 - 64,"Laksa , Char Kway Teow,Curry laksa, Hokkien Mee, Roti Prata, Satay",1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,6
+962,Female,14 and below,"Laksa , Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Hokkien Mee, Roti Prata",1,0,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6
+489,Female,25 - 54,"Sliced Fish Soup,Curry laksa, Duck Rice, Bak Kut Teh, Cereal Prawn, Crab Bee Hoon Soup",0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,6
+504,Male,25 - 54,"Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Fish and Chips, Chinese Economy Rice",0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+373,Male,55 - 64,"Hainanese Chicken Rice, Sliced Fish Soup, Fish and Chips, Hokkien Mee, Black Pepper Crab, Cereal Prawn",0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,0,0,6
+918,Female,14 and below,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Fish Head Curry, Kway Chap, Roti Prata",0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,6
+985,Female,14 and below,"Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Bak Kut Teh, Cereal Prawn, Crab Bee Hoon Soup",0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,6
+788,Female,15 - 24,"Laksa , Hainanese Chicken Rice, Sliced Fish Soup, Bak Kut Teh, Black Pepper Crab, Satay",1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,6
+440,Female,25 - 54,"Sliced Fish Soup, Fish and Chips, Hokkien Mee, Kway Chap, Roti Prata, Cereal Prawn",0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,1,0,6
+464,Female,25 - 54,"Chili Crab, Char Kway Teow, Japanese Bento, Hokkien Mee, Roti Prata, Cereal Prawn",0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,6
+543,Male,25 - 54,"Sliced Fish Soup, Japanese Bento, Fish Head Curry, Black Pepper Crab, Cereal Prawn, Katong laksa ",0,0,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,6
+799,Female,15 - 24,"Char Kway Teow, Fish and Chips, Chinese Economy Rice, Japanese Bento, Hokkien Mee, Beef Kway Teow",0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6
+935,Female,14 and below,"Hainanese Chicken Rice, Fish and Chips, Chinese Economy Rice, Japanese Bento, Hokkien Mee, Roti Prata",0,0,0,1,0,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6
+401,Female,25 - 54,"Laksa , Hainanese Chicken Rice, Sliced Fish Soup, Kway Chap, Roti Prata, Sambal Stingray",1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,6
+518,Male,25 - 54,"Laksa ,Curry laksa, Fish Head Curry, Hokkien Mee, Kway Chap, Sambal Stingray",1,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,6
+470,Female,25 - 54,"Laksa , Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Kway Chap, Black Pepper Crab",1,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,6
+104,Male,65 and above,"Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Duck Rice, Bak Kut Teh, Crab Bee Hoon Soup",0,0,0,1,1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,6
+207,Female,55 - 64,"Laksa , Char Kway Teow, Sliced Fish Soup, Fish Head Curry, Hokkien Mee, Beef Kway Teow",1,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,6
+722,Female,15 - 24,"Japanese Bento, Hokkien Mee, Roti John, Cereal Prawn, Sambal Stingray, Satay",0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,1,0,1,6
+576,Male,25 - 54,"Laksa , Char Kway Teow, Bak Kut Teh, Hokkien Mee, Black Pepper Crab, Cereal Prawn",1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,6
+753,Female,15 - 24,"Hainanese Chicken Rice, Fish and Chips,Curry laksa, Bak Kut Teh, Hokkien Mee, Sambal Stingray",0,0,0,1,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,6
+474,Female,25 - 54,"Chili Crab, Fish Head Curry, Black Pepper Crab, Cereal Prawn, Sambal Stingray, Crab Bee Hoon Soup",0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,6
+751,Female,15 - 24,"Sliced Fish Soup, Fish and Chips, Roti Prata, Roti John, katong laksa, Crab Bee Hoon Soup",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,6
+352,Male,55 - 64,"Laksa , Hainanese Chicken Rice, Hokkien Mee, Kway Chap, katong laksa, Sambal Stingray",1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,6
+325,Male,55 - 64,"Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Yu Sheng, Black Pepper Crab, Sambal Stingray",0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,6
+805,Male,14 and below,"Laksa , Chili Crab, Fish and Chips, Duck Rice, Hokkien Mee, Kway Chap",1,1,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,6
+131,Male,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Bak Kut Teh, Sambal Stingray, Crab Bee Hoon Soup",1,0,1,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,6
+996,Female,14 and below,"Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Bak Kut Teh, Cereal Prawn, Crab Bee Hoon Soup",0,0,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+780,Female,15 - 24,"Laksa , Hainanese Chicken Rice, Japanese Bento, Roti Prata, Roti John, Katong laksa ",1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,6
+257,Female,55 - 64,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup,Curry laksa, Duck Rice, Roti John",0,0,1,1,1,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6
+177,Male,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Kway Chap, Beef Kway Teow",0,0,1,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,6
+90,Female,65 and above,"Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Hokkien Mee, Kway Chap, Crab Bee Hoon Soup",0,0,0,1,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,6
+344,Male,55 - 64,"Laksa , Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Fish and Chips, Black Pepper Crab",1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+627,Male,15 - 24,"Fish and Chips, Chinese Economy Rice, Japanese Bento, Roti Prata, Sambal Stingray, Satay",0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,6
+271,Female,55 - 64,"Hainanese Chicken Rice, Fish and Chips, Japanese Bento,Curry laksa, Fish Head Curry, Sambal Stingray",0,0,0,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,6
+646,Male,15 - 24,"Laksa , Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Hokkien Mee, Roti Prata",1,0,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6
+442,Female,25 - 54,"Chili Crab, Char Kway Teow, Hainanese Chicken Rice,Curry laksa, Duck Rice, Fish Head Curry",0,0,1,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,6
+53,Female,65 and above,"Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Hokkien Mee, Kway Chap, Crab Bee Hoon Soup",0,0,0,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,6
+697,Male,15 - 24,"Laksa , Chili Crab,Curry laksa, Fish Head Curry, katong laksa, Sambal Stingray",1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,6
+114,Male,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Kway Chap",0,0,1,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,6
+554,Male,25 - 54,"Laksa , Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Fish and Chips, Japanese Bento",1,1,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+596,Male,25 - 54,"Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Hokkien Mee, Roti Prata, Sambal Stingray",0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,6
+243,Female,55 - 64,"Chili Crab, Char Kway Teow, Japanese Bento, Hokkien Mee, Kway Chap, Black Pepper Crab",0,1,1,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,6
+726,Female,15 - 24,"Laksa , Hainanese Chicken Rice, Japanese Bento, Roti Prata, Roti John, Katong laksa ",1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,6
+242,Female,55 - 64,"Laksa , Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Fish and Chips",1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,6
+115,Male,65 and above,"Laksa , Char Kway Teow, Sliced Fish Soup,Curry laksa, Kway Chap, Crab Bee Hoon Soup",1,0,1,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,6
+311,Male,55 - 64,"Laksa , Chili Crab, Japanese Bento, katong laksa, Sambal Stingray, Crab Bee Hoon Soup",1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,6
+437,Female,25 - 54,"Laksa , Hainanese Chicken Rice, Sliced Fish Soup, Kway Chap, Roti Prata, Sambal Stingray",1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,6
+377,Male,55 - 64,"Hainanese Chicken Rice, Fish Head Curry, Roti Prata, Roti John, Sambal Stingray, Satay",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,1,6
+216,Female,55 - 64,"Char Kway Teow, Hainanese Chicken Rice, Bak Kut Teh, Kway Chap, Beef Kway Teow, Katong laksa ",0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,0,0,6
+393,Male,55 - 64,"Chili Crab, Hainanese Chicken Rice, Sliced Fish Soup, Fish Head Curry, Hokkien Mee, Roti Prata",0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,6
+403,Female,25 - 54,"Sliced Fish Soup,Curry laksa, Fish Head Curry, Sambal Stingray, Crab Bee Hoon Soup, Satay",0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,6
+900,Male,14 and below,"Char Kway Teow, Fish and Chips, Hokkien Mee, Roti Prata, Roti John, Sambal Stingray",0,0,1,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1,0,0,6
+190,Male,65 and above,"Laksa , Char Kway Teow, Sliced Fish Soup,Curry laksa, Kway Chap, Crab Bee Hoon Soup",0,0,1,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,6
+141,Male,65 and above,"Char Kway Teow, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, katong laksa, Crab Bee Hoon Soup",1,0,1,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,6
+228,Female,55 - 64,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Beef Kway Teow, Sambal Stingray, Crab Bee Hoon Soup",0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,6
+533,Male,25 - 54,"Laksa , Hainanese Chicken Rice, Japanese Bento,Curry laksa, Roti John, Katong laksa ",1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,6
+438,Female,25 - 54,"Chili Crab, Fish Head Curry, Black Pepper Crab, Cereal Prawn, Sambal Stingray, Crab Bee Hoon Soup",0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,1,0,6
+94,Female,65 and above,"Laksa , Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Crab Bee Hoon Soup",0,0,0,1,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,6
+463,Female,25 - 54,"Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Kway Chap, Cereal Prawn, Katong laksa ",0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,6
+314,Male,55 - 64,"Laksa , Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Yu Sheng, Black Pepper Crab",1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,6
+670,Male,15 - 24,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Bak Kut Teh, Kway Chap, Satay",0,0,1,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,6
+841,Male,14 and below,"Laksa , Chili Crab, Fish and Chips, Duck Rice, Hokkien Mee, Kway Chap",1,1,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,6
+147,Male,65 and above,"Chili Crab, Char Kway Teow, Sliced Fish Soup, Chinese Economy Rice, Duck Rice, Fish Head Curry",0,0,1,1,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,6
+952,Female,14 and below,"Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Hokkien Mee, Cereal Prawn, Crab Bee Hoon Soup",0,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,6
+765,Female,15 - 24,"Hainanese Chicken Rice, Sliced Fish Soup, Hokkien Mee, Roti Prata, Cereal Prawn, Sambal Stingray",0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,6
+675,Male,15 - 24,"Fish and Chips, Chinese Economy Rice, Japanese Bento, Roti Prata, Sambal Stingray, Satay",0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,1,6
+553,Male,25 - 54,"Hainanese Chicken Rice, Fish and Chips, Hokkien Mee, Kway Chap, Black Pepper Crab, Cereal Prawn",0,0,0,1,0,1,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,6
+137,Male,65 and above,"Char Kway Teow, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Kway Chap, Crab Bee Hoon Soup",1,0,1,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,6
+451,Female,25 - 54,"Laksa , Japanese Bento, Hokkien Mee, Cereal Prawn, Sambal Stingray, Satay",1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1,6
+323,Male,55 - 64,"Laksa , Hainanese Chicken Rice, Sliced Fish Soup, Duck Rice, Bak Kut Teh, Kway Chap",1,0,0,1,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,6
+699,Male,15 - 24,"Laksa , Char Kway Teow, Fish and Chips, Japanese Bento, Cereal Prawn, Sambal Stingray",1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,6
+219,Female,55 - 64,"Laksa , Char Kway Teow, Japanese Bento, Fish Head Curry, Cereal Prawn, Katong laksa ",1,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,6
+140,Male,65 and above,"Laksa , Char Kway Teow, Sliced Fish Soup,Curry laksa, Kway Chap, Crab Bee Hoon Soup",1,0,1,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,6
+279,Female,55 - 64,"Laksa , Char Kway Teow, Japanese Bento, Fish Head Curry, Cereal Prawn, Katong laksa ",1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,6
+133,Male,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Crab Bee Hoon Soup",1,0,1,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,6
+987,Female,14 and below,"Hainanese Chicken Rice, Japanese Bento,Curry laksa, Duck Rice, Roti Prata, Cereal Prawn",0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,6
+212,Female,55 - 64,"Laksa , Chili Crab, Duck Rice, Fish Head Curry, Bak Kut Teh, Kway Chap",1,1,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,6
+434,Female,25 - 54,"Laksa , Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Kway Chap, Black Pepper Crab",1,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,6
+560,Male,25 - 54,"Chili Crab, Duck Rice, Fish Head Curry, Bak Kut Teh, Hokkien Mee, Satay",0,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,6
+954,Female,14 and below,"Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Bak Kut Teh, Kway Chap, Cereal Prawn",0,0,0,1,0,1,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,6
+778,Female,15 - 24,"Fish and Chips, Hokkien Mee, Cereal Prawn, katong laksa, Sambal Stingray, Satay",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,1,6
+577,Male,25 - 54,"Hainanese Chicken Rice, Fish and Chips, Roti Prata, Roti John, Sambal Stingray, Satay",0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,6
+296,Female,55 - 64,"Char Kway Teow, Hainanese Chicken Rice, Bak Kut Teh, Kway Chap, Beef Kway Teow, Katong laksa ",0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,0,0,6
+65,Female,65 and above,"Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, katong laksa, Crab Bee Hoon Soup",0,0,0,0,1,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,6
+201,Female,55 - 64,"Laksa , Chili Crab, Fish Head Curry, Kway Chap, katong laksa, Crab Bee Hoon Soup",1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0,6
+215,Female,55 - 64,"Sliced Fish Soup, Chinese Economy Rice, Yu Sheng, Duck Rice, Bak Kut Teh, Kway Chap",0,0,0,0,1,0,1,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,6
+830,Male,14 and below,"Laksa ,Curry laksa, Roti Prata, Roti John, Cereal Prawn, Katong laksa ",1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,6
+698,Male,15 - 24,"Hainanese Chicken Rice, Chinese Economy Rice, Japanese Bento,Curry laksa, Bak Kut Teh, Hokkien Mee",0,0,0,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,6
+44,Female,65 and above,"Sliced Fish Soup, Chinese Economy Rice, Japanese Bento, Yu Sheng, Bak Kut Teh, Crab Bee Hoon Soup",0,0,0,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,6
+710,Female,15 - 24,"Chili Crab, Hainanese Chicken Rice, Hokkien Mee, Roti Prata, Cereal Prawn, Sambal Stingray",0,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,6
+1,Female,65 and above,"Chili Crab, Japanese Bento,Curry laksa, Duck Rice, Hokkien Mee, Roti Prata",0,1,0,0,0,0,0,1,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,6
+916,Female,14 and below,"Laksa , Hainanese Chicken Rice, Fish Head Curry, Hokkien Mee, Roti Prata, Satay",1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,6
+47,Female,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Japanese Bento, Crab Bee Hoon Soup",0,0,0,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,6
+456,Female,25 - 54,"Fish and Chips, Roti Prata, Roti John, Beef Kway Teow, Sambal Stingray, Satay",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,1,6
+18,Female,65 and above,"Char Kway Teow, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Kway Chap, Roti Prata",0,0,1,0,1,0,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,6
+586,Male,25 - 54,"Laksa , Chili Crab, Char Kway Teow, Kway Chap, Roti Prata, Black Pepper Crab",1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,6
+195,Male,65 and above,"Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Black Pepper Crab, Cereal Prawn, Crab Bee Hoon Soup",0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,6
+303,Male,55 - 64,"Char Kway Teow, Sliced Fish Soup, Duck Rice, Hokkien Mee, Beef Kway Teow, Satay",0,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,1,6
+109,Male,65 and above,"Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Roti Prata, Roti John, Crab Bee Hoon Soup",0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,6
+268,Female,55 - 64,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Beef Kway Teow, Sambal Stingray, Crab Bee Hoon Soup",0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,6
+873,Male,14 and below,"Laksa , Fish and Chips,Curry laksa, Bak Kut Teh, Roti Prata, Katong laksa ",1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,1,6
+236,Female,55 - 64,"Char Kway Teow, Hainanese Chicken Rice, Bak Kut Teh, Kway Chap, Beef Kway Teow, Katong laksa ",0,0,0,1,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,1,0,0,0,0,6
+264,Female,55 - 64,"Laksa , Char Kway Teow, Japanese Bento, Duck Rice, Fish Head Curry, Kway Chap",1,0,0,1,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,6
+891,Male,14 and below,"Sliced Fish Soup, Fish and Chips, Chinese Economy Rice, Japanese Bento, Hokkien Mee, Roti Prata",0,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,6
+29,Female,65 and above,"Laksa , Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Kway Chap",1,0,0,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,6
+500,Female,25 - 54,"Chili Crab, Char Kway Teow, Japanese Bento, Hokkien Mee, Roti Prata, Cereal Prawn",0,1,1,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,6
+582,Male,25 - 54,"Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Hokkien Mee",0,1,1,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6
+475,Female,25 - 54,"Sliced Fish Soup,Curry laksa, Fish Head Curry, Sambal Stingray, Crab Bee Hoon Soup, Satay",0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,6
+527,Male,25 - 54,"Laksa , Char Kway Teow, Japanese Bento, Bak Kut Teh, Cereal Prawn, Satay",1,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,6
+537,Male,25 - 54,"Chili Crab, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Hokkien Mee, Roti Prata",0,1,0,1,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6
+818,Male,14 and below,"Laksa , Japanese Bento,Curry laksa, Fish Head Curry, Bak Kut Teh, Hokkien Mee",1,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,6
+410,Female,25 - 54,"Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Fish Head Curry, Hokkien Mee, Crab Bee Hoon Soup",0,1,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,6
+149,Male,65 and above,"Hainanese Chicken Rice, Sliced Fish Soup,Curry laksa, Duck Rice, Bak Kut Teh, Kway Chap",0,0,1,1,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,6
+652,Male,15 - 24,"Chili Crab, Hokkien Mee, Kway Chap, katong laksa, Sambal Stingray, Crab Bee Hoon Soup",0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,1,0,6
+494,Female,25 - 54,"Sliced Fish Soup,Curry laksa, Yu Sheng, Hokkien Mee, Kway Chap, Cereal Prawn",0,0,0,0,1,0,0,0,1,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,6
+559,Male,25 - 54,"Laksa , Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Japanese Bento, Fish Head Curry",1,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,6
+163,Male,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Kway Chap",0,0,1,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,6
+961,Female,14 and below,"Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Hokkien Mee, Roti Prata, Beef Kway Teow",0,0,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,6
+754,Female,15 - 24,"Laksa , Char Kway Teow, Sliced Fish Soup, Fish and Chips, Hokkien Mee, Sambal Stingray",1,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,6
+740,Female,15 - 24,"Chili Crab, Hainanese Chicken Rice,Curry laksa, Roti John, Cereal Prawn, Satay",0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,6
+872,Male,14 and below,"Laksa , Hainanese Chicken Rice, Fish and Chips, Chinese Economy Rice, Japanese Bento, Roti Prata",1,0,0,1,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6
+762,Female,15 - 24,"Laksa ,Curry laksa, Bak Kut Teh, Hokkien Mee, Roti Prata, Satay",1,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,6
+372,Male,55 - 64,"Chili Crab, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice,Curry laksa, Fish Head Curry",0,0,1,0,0,0,1,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,6
+144,Male,65 and above,"Sliced Fish Soup, Bak Kut Teh, Kway Chap, Black Pepper Crab, katong laksa, Crab Bee Hoon Soup",0,0,1,1,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,6
+822,Male,14 and below,"Laksa , Char Kway Teow,Curry laksa, Fish Head Curry, Bak Kut Teh, Katong laksa ",1,0,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,6
+927,Female,14 and below,"Hainanese Chicken Rice, Japanese Bento,Curry laksa, Duck Rice, Roti Prata, Cereal Prawn",0,0,0,1,0,0,0,1,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,6
+125,Male,65 and above,"Chili Crab, Char Kway Teow, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Crab Bee Hoon Soup",0,1,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,6
+542,Male,25 - 54,"Laksa , Hainanese Chicken Rice,Curry laksa, Yu Sheng, Hokkien Mee, Black Pepper Crab",1,0,0,1,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6
+977,Female,14 and below,"Hainanese Chicken Rice, Fish and Chips, Chinese Economy Rice, Japanese Bento, Hokkien Mee, Satay",0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,6
+534,Male,25 - 54,"Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Fish and Chips, Chinese Economy Rice",0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+227,Female,55 - 64,"Laksa , Char Kway Teow, Sliced Fish Soup, Fish Head Curry, Hokkien Mee, Beef Kway Teow",1,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,6
+46,Female,65 and above,"Laksa , Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Crab Bee Hoon Soup",0,0,0,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,6
+409,Female,25 - 54,"Bak Kut Teh, Kway Chap, Black Pepper Crab, Sambal Stingray, Crab Bee Hoon Soup, Satay",0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,1,1,1,6
+235,Female,55 - 64,"Sliced Fish Soup, Chinese Economy Rice, Yu Sheng, Duck Rice, Bak Kut Teh, Kway Chap",0,0,0,1,1,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,6
+685,Male,15 - 24,"Hainanese Chicken Rice, Fish and Chips, Bak Kut Teh, Roti Prata, Sambal Stingray, Satay",0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1,6
+490,Female,25 - 54,"Chili Crab, Fish Head Curry, Cereal Prawn, Beef Kway Teow, Crab Bee Hoon Soup, Satay",0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,1,6
+989,Female,14 and below,"Char Kway Teow, Sliced Fish Soup, Fish and Chips, Cereal Prawn, Beef Kway Teow, Sambal Stingray",0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,6
+359,Male,55 - 64,"Laksa , Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Black Pepper Crab, Beef Kway Teow",1,0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,6
+467,Female,25 - 54,"Laksa , Chili Crab, Char Kway Teow, Fish and Chips, Japanese Bento, Cereal Prawn",1,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,6
+549,Male,25 - 54,"Char Kway Teow, Hainanese Chicken Rice, Chinese Economy Rice, Hokkien Mee, Kway Chap, Roti Prata",0,0,1,1,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,6
+595,Male,25 - 54,"Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Fish and Chips, Chinese Economy Rice",0,1,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+411,Female,25 - 54,"Hainanese Chicken Rice, Sliced Fish Soup, Hokkien Mee, katong laksa, Sambal Stingray, Satay",0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,6
+229,Female,55 - 64,"Laksa , Char Kway Teow, Hainanese Chicken Rice, Bak Kut Teh, Kway Chap, Katong laksa ",1,0,0,1,0,0,1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,6
+254,Female,55 - 64,"Hainanese Chicken Rice, Japanese Bento, Fish Head Curry, Bak Kut Teh, Sambal Stingray, Crab Bee Hoon Soup",0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,6
+284,Female,55 - 64,"Laksa , Char Kway Teow, Japanese Bento, Duck Rice, Fish Head Curry, Kway Chap",1,0,1,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,6
+142,Male,65 and above,"Laksa , Sliced Fish Soup, Chinese Economy Rice,Curry laksa, Bak Kut Teh, Crab Bee Hoon Soup",0,0,1,1,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,6
+888,Male,14 and below,"Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Japanese Bento, Hokkien Mee, Satay",0,0,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,6
+363,Male,55 - 64,"Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Black Pepper Crab, Beef Kway Teow",0,0,1,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,6
+988,Female,14 and below,"Sliced Fish Soup, Fish and Chips, Japanese Bento, Roti Prata, Cereal Prawn, Satay",0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,6
+329,Male,55 - 64,"Laksa , Char Kway Teow, Chinese Economy Rice, Duck Rice, Hokkien Mee, Beef Kway Teow",1,0,1,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,6
+907,Female,14 and below,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Fish and Chips, Japanese Bento, Roti Prata",0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6
+539,Male,25 - 54,"Chili Crab, Hainanese Chicken Rice,Curry laksa, Bak Kut Teh, Black Pepper Crab, Sambal Stingray",0,1,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,6
+36,Female,65 and above,"Laksa , Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, katong laksa, Crab Bee Hoon Soup",1,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,6
+624,Male,15 - 24,"Laksa , Hainanese Chicken Rice, Japanese Bento, Kway Chap, Cereal Prawn, Satay",1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,6
+239,Female,55 - 64,"Laksa , Char Kway Teow, Japanese Bento, Fish Head Curry, Cereal Prawn, Katong laksa ",1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,6
+83,Female,65 and above,"Laksa , Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Crab Bee Hoon Soup",0,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,6
+424,Female,25 - 54,"Laksa , Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Yu Sheng, Fish Head Curry",1,0,0,1,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,6
+293,Female,55 - 64,"Laksa , Fish and Chips, Japanese Bento, Cereal Prawn, katong laksa, Crab Bee Hoon Soup",1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,6
+391,Male,55 - 64,"Laksa , Char Kway Teow, Duck Rice, Fish Head Curry, Sambal Stingray, Satay",1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,6
+218,Female,55 - 64,"Chili Crab, Hainanese Chicken Rice, Fish and Chips, Fish Head Curry, Black Pepper Crab, Sambal Stingray",0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,6
+967,Female,14 and below,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Fish and Chips, Japanese Bento, Roti Prata",0,0,1,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+388,Male,55 - 64,"Chili Crab, Char Kway Teow, Beef Kway Teow, katong laksa, Sambal Stingray, Satay",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,6
+345,Male,55 - 64,"Char Kway Teow, Sliced Fish Soup, Duck Rice, Hokkien Mee, Beef Kway Teow, Satay",0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,1,6
+715,Female,15 - 24,"Laksa , Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Fish and Chips, Duck Rice",1,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+981,Female,14 and below,"Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Yu Sheng, Cereal Prawn, Satay",0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,6
+991,Female,14 and below,"Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Bak Kut Teh, Cereal Prawn, Crab Bee Hoon Soup",0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,6
+288,Female,55 - 64,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Beef Kway Teow, Sambal Stingray, Crab Bee Hoon Soup",0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,6
+129,Male,65 and above,"Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Duck Rice, Bak Kut Teh, Crab Bee Hoon Soup",1,0,1,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,6
+676,Male,15 - 24,"Laksa , Hainanese Chicken Rice, Chinese Economy Rice, Japanese Bento, Roti Prata, Satay",1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,6
+275,Female,55 - 64,"Sliced Fish Soup, Chinese Economy Rice, Yu Sheng, Duck Rice, Bak Kut Teh, Kway Chap",1,0,0,0,1,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,6
+800,Female,15 - 24,"Laksa , Hainanese Chicken Rice, Duck Rice, Hokkien Mee, katong laksa, Crab Bee Hoon Soup",1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,6
+68,Female,65 and above,"Chili Crab, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Kway Chap, Katong laksa",0,0,0,0,1,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,6
+357,Male,55 - 64,"Hainanese Chicken Rice, Duck Rice, Black Pepper Crab, Cereal Prawn, Sambal Stingray, Satay",0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,6
+972,Female,14 and below,"Hainanese Chicken Rice, Sliced Fish Soup, Fish and Chips, Chinese Economy Rice, Duck Rice, Kway Chap",0,0,0,1,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,6
+127,Male,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Kway Chap, Beef Kway Teow",1,0,1,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,6
+884,Male,14 and below,"Chili Crab, Sliced Fish Soup, Fish and Chips, Japanese Bento, Roti Prata, Satay",0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,6
+405,Female,25 - 54,"Hainanese Chicken Rice, Sliced Fish Soup,Curry laksa, Bak Kut Teh, Kway Chap, Sambal Stingray",0,0,0,1,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,6
+748,Female,15 - 24,"Chili Crab, Fish and Chips, Bak Kut Teh, Roti Prata, Cereal Prawn, Sambal Stingray",0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0,6
+688,Male,15 - 24,"Chili Crab, Char Kway Teow, Japanese Bento, Fish Head Curry, Hokkien Mee, Sambal Stingray",0,1,1,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,6
+810,Male,14 and below,"Fish and Chips, Duck Rice, Bak Kut Teh, Kway Chap, Roti Prata, Cereal Prawn",0,0,0,0,0,1,0,0,0,0,1,0,1,0,1,1,0,0,1,0,0,0,0,0,6
+523,Male,25 - 54,"Hainanese Chicken Rice, Fish and Chips, Hokkien Mee, Kway Chap, Black Pepper Crab, Cereal Prawn",0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,6
+339,Male,55 - 64,"Laksa , Chili Crab,Curry laksa, Fish Head Curry, Roti Prata, Katong laksa ",1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,6
+328,Male,55 - 64,"Laksa , Chili Crab, Duck Rice, Hokkien Mee, Black Pepper Crab, Beef Kway Teow",1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,6
+876,Male,14 and below,"Hainanese Chicken Rice, Fish and Chips, Chinese Economy Rice, Japanese Bento, Roti Prata, Cereal Prawn",0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,6
+390,Male,55 - 64,"Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Japanese Bento, Bak Kut Teh, Hokkien Mee",0,0,0,1,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,6
+752,Female,15 - 24,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Hokkien Mee, Katong laksa ",0,0,1,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,6
+700,Male,15 - 24,"Laksa , Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Hokkien Mee, Roti Prata",1,0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,6
+749,Female,15 - 24,"Hainanese Chicken Rice, Fish Head Curry, Roti Prata, Black Pepper Crab, Crab Bee Hoon Soup, Satay",0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,1,6
+392,Male,55 - 64,"Laksa , Chili Crab, Char Kway Teow, Chinese Economy Rice, Bak Kut Teh, Kway Chap",1,1,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,6
+744,Female,15 - 24,"Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Hokkien Mee, Roti Prata, Roti John",0,0,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,6
+828,Male,14 and below,"Char Kway Teow, Fish and Chips, Hokkien Mee, Roti Prata, Roti John, Sambal Stingray",0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,6
+690,Male,15 - 24,"Chili Crab, Fish and Chips, Chinese Economy Rice,Curry laksa, Fish Head Curry, Bak Kut Teh",1,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,6
+48,Female,65 and above,"Laksa , Char Kway Teow, Sliced Fish Soup, Chinese Economy Rice, Cereal Prawn, Crab Bee Hoon Soup",0,0,0,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,6
+158,Male,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Crab Bee Hoon Soup",0,0,1,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,6
+814,Male,14 and below,"Laksa , Sliced Fish Soup, Fish and Chips, Japanese Bento, Hokkien Mee, Cereal Prawn",1,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,6
+466,Female,25 - 54,"Laksa , Char Kway Teow, Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Bak Kut Teh",1,0,1,0,0,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,6
+63,Female,65 and above,"Laksa , Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, katong laksa, Crab Bee Hoon Soup",0,0,0,0,1,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,6
+95,Female,65 and above,"Laksa , Hainanese Chicken Rice, Sliced Fish Soup, Japanese Bento,Curry laksa, Satay",0,0,0,1,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,6
+234,Female,55 - 64,"Hainanese Chicken Rice, Japanese Bento, Fish Head Curry, Bak Kut Teh, Sambal Stingray, Crab Bee Hoon Soup",0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,6
+530,Male,25 - 54,"Chili Crab, Duck Rice, Fish Head Curry, Bak Kut Teh, Hokkien Mee, Satay",0,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,6
+588,Male,25 - 54,"Chili Crab, Char Kway Teow, Fish and Chips, Duck Rice, Roti John, Sambal Stingray",0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,6
+757,Female,15 - 24,"Fish and Chips, Japanese Bento, Duck Rice, Hokkien Mee, Black Pepper Crab, Cereal Prawn",0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,6
+665,Male,15 - 24,"Fish and Chips, Japanese Bento, Yu Sheng, Hokkien Mee, Kway Chap, Cereal Prawn",0,0,0,0,0,1,0,1,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,6
+653,Male,15 - 24,"Laksa , Chili Crab, Hainanese Chicken Rice, Fish and Chips, Hokkien Mee, Roti Prata",1,1,0,1,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,6
+178,Male,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Kway Chap, Sambal Stingray",0,0,1,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,6
+400,Male,55 - 64,"Char Kway Teow, Sliced Fish Soup, Fish and Chips, Hokkien Mee, katong laksa, Crab Bee Hoon Soup",0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0,0,6
+953,Female,14 and below,"Sliced Fish Soup, Fish and Chips,Curry laksa, Cereal Prawn, Sambal Stingray, Crab Bee Hoon Soup",0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,6
+779,Female,15 - 24,"Laksa , Fish and Chips, Japanese Bento, Yu Sheng, Roti Prata, Beef Kway Teow",1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,6
+874,Male,14 and below,"Hainanese Chicken Rice, Chinese Economy Rice, Japanese Bento,Curry laksa, Bak Kut Teh, Roti Prata",0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,6
+606,Male,15 - 24,"Char Kway Teow, Hainanese Chicken Rice, Fish and Chips, Chinese Economy Rice, Hokkien Mee, Roti Prata",0,0,1,1,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6
+110,Male,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Crab Bee Hoon Soup",0,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,6
+712,Female,15 - 24,"Char Kway Teow, Fish and Chips, Japanese Bento, Bak Kut Teh, Hokkien Mee, Katong laksa ",0,0,1,0,0,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,6
+200,Male,65 and above,"Chili Crab, Char Kway Teow, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Crab Bee Hoon Soup",0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,6
+354,Male,55 - 64,"Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Black Pepper Crab, katong laksa, Sambal Stingray",0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,6
+387,Male,55 - 64,"Char Kway Teow, Sliced Fish Soup, Duck Rice, Hokkien Mee, Beef Kway Teow, Satay",0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,1,6
+317,Male,55 - 64,"Laksa , Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Black Pepper Crab, Beef Kway Teow",1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,6
+859,Male,14 and below,"Hainanese Chicken Rice, Sliced Fish Soup, Fish and Chips, Japanese Bento, Hokkien Mee, Crab Bee Hoon Soup",0,0,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,6
+138,Male,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Kway Chap",1,0,1,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,6
+598,Male,25 - 54,"Laksa , Chili Crab, Sliced Fish Soup, Duck Rice, katong laksa, Sambal Stingray",1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,6
+930,Female,14 and below,"Laksa , Sliced Fish Soup, Japanese Bento,Curry laksa, Fish Head Curry, Roti Prata",1,0,0,0,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,6
+174,Male,65 and above,"Hainanese Chicken Rice, Sliced Fish Soup,Curry laksa, Duck Rice, Bak Kut Teh, Kway Chap",0,0,1,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,6
+143,Male,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Katong laksa",0,0,1,1,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,6
+766,Female,15 - 24,"Char Kway Teow, Fish and Chips, Japanese Bento, Bak Kut Teh, Hokkien Mee, Katong laksa ",0,0,1,0,0,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,6
+105,Male,65 and above,"Chili Crab, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Sambal Stingray, Crab Bee Hoon Soup",0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,6
+777,Female,15 - 24,"Laksa , Hainanese Chicken Rice, Yu Sheng, Bak Kut Teh, Kway Chap, Roti Prata",1,0,0,1,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,6
+66,Female,65 and above,"Laksa , Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Kway Chap",0,0,0,0,1,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,6
+580,Male,25 - 54,"Char Kway Teow, Hainanese Chicken Rice, Roti John, Cereal Prawn, Sambal Stingray, Satay",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,6
+551,Male,25 - 54,"Laksa , Sliced Fish Soup, Chinese Economy Rice,Curry laksa, Duck Rice, Crab Bee Hoon Soup",1,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,6
+807,Male,14 and below,"Laksa , Hainanese Chicken Rice, Fish and Chips, Fish Head Curry, Beef Kway Teow, Sambal Stingray",1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,6
+447,Female,25 - 54,"Hainanese Chicken Rice, Sliced Fish Soup, Hokkien Mee, katong laksa, Sambal Stingray, Satay",0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,6
+578,Male,25 - 54,"Laksa ,Curry laksa, Fish Head Curry, Hokkien Mee, Kway Chap, Sambal Stingray",1,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,6
+378,Male,55 - 64,"Chili Crab, Char Kway Teow, Chinese Economy Rice, Duck Rice, Bak Kut Teh, Black Pepper Crab",0,0,1,0,0,1,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,6
+856,Male,14 and below,"Hainanese Chicken Rice, Sliced Fish Soup, Japanese Bento, Cereal Prawn, Beef Kway Teow, Katong laksa ",0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,6
+865,Male,14 and below,"Fish and Chips, Japanese Bento, Hokkien Mee, Roti Prata, Roti John, Satay",0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1,6
+648,Male,15 - 24,"Laksa , Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Bak Kut Teh, Roti Prata",1,0,0,1,0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6
+417,Female,25 - 54,"Sliced Fish Soup,Curry laksa, Duck Rice, Bak Kut Teh, Cereal Prawn, Crab Bee Hoon Soup",0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,1,0,6
+707,Female,15 - 24,"Laksa , Hainanese Chicken Rice, Fish and Chips, Roti Prata, Black Pepper Crab, Satay",1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,6
+548,Male,25 - 54,"Laksa ,Curry laksa, Fish Head Curry, Hokkien Mee, Kway Chap, Sambal Stingray",1,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,6
+501,Male,25 - 54,"Laksa , Chili Crab, Duck Rice, Bak Kut Teh, Kway Chap, Roti Prata",1,1,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,6
+255,Female,55 - 64,"Sliced Fish Soup, Chinese Economy Rice, Yu Sheng, Duck Rice, Bak Kut Teh, Kway Chap",0,0,0,0,1,0,1,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,6
+717,Female,15 - 24,"Laksa , Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Fish Head Curry, Hokkien Mee",1,1,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,6
+267,Female,55 - 64,"Laksa , Char Kway Teow, Sliced Fish Soup, Fish Head Curry, Hokkien Mee, Beef Kway Teow",1,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,6
+716,Female,15 - 24,"Laksa , Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Fish and Chips, Japanese Bento",1,1,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+603,Male,15 - 24,"Hainanese Chicken Rice, Sliced Fish Soup, Duck Rice, Bak Kut Teh, Hokkien Mee, Kway Chap",0,0,0,1,1,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,6
+159,Male,65 and above,"Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Roti Prata, Roti John, Crab Bee Hoon Soup",0,0,1,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,6
+175,Male,65 and above,"Chili Crab, Char Kway Teow, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Crab Bee Hoon Soup",0,0,1,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,6
+947,Female,14 and below,"Hainanese Chicken Rice, Fish and Chips, Chinese Economy Rice, Japanese Bento, Hokkien Mee, Satay",0,0,0,1,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,6
+925,Female,14 and below,"Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Bak Kut Teh, Cereal Prawn, Crab Bee Hoon Soup",0,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,6
+929,Female,14 and below,"Char Kway Teow, Sliced Fish Soup, Fish and Chips, Cereal Prawn, Beef Kway Teow, Sambal Stingray",0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,6
+128,Male,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Kway Chap, Sambal Stingray",1,0,1,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,6
+276,Female,55 - 64,"Char Kway Teow, Hainanese Chicken Rice, Bak Kut Teh, Kway Chap, Beef Kway Teow, Katong laksa ",1,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,1,0,0,0,0,6
+21,Female,65 and above,"Laksa , Hainanese Chicken Rice, Sliced Fish Soup, Japanese Bento,Curry laksa, Satay",1,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6
+162,Male,65 and above,"Char Kway Teow, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Kway Chap, Crab Bee Hoon Soup",0,0,1,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,6
+118,Male,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Katong laksa",0,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,6
+428,Female,25 - 54,"Chili Crab, Char Kway Teow, Japanese Bento, Hokkien Mee, Roti Prata, Cereal Prawn",0,1,1,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,6
+483,Female,25 - 54,"Hainanese Chicken Rice, Sliced Fish Soup, Hokkien Mee, katong laksa, Sambal Stingray, Satay",0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,6
+525,Male,25 - 54,"Laksa , Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Roti Prata, Black Pepper Crab",1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,6
+660,Male,15 - 24,"Hainanese Chicken Rice,Curry laksa, Duck Rice, Hokkien Mee, Cereal Prawn, Satay",0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,1,6
+571,Male,25 - 54,"Char Kway Teow, Hainanese Chicken Rice, Duck Rice, Fish Head Curry, Sambal Stingray, Satay",0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,6
+658,Male,15 - 24,"Hainanese Chicken Rice, Fish and Chips, Japanese Bento,Curry laksa, Roti Prata, Satay",0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,6
+86,Female,65 and above,"Sliced Fish Soup, Chinese Economy Rice, Hokkien Mee, Sambal Stingray, Crab Bee Hoon Soup, Satay",0,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,6
+966,Female,14 and below,"Hainanese Chicken Rice, Sliced Fish Soup, Fish and Chips,Curry laksa, Yu Sheng, Roti Prata",0,0,0,1,1,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,6
+910,Female,14 and below,"Chinese Economy Rice, Yu Sheng, Duck Rice, Hokkien Mee, Roti Prata, Roti John",0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,6
+692,Male,15 - 24,"Hainanese Chicken Rice, Chinese Economy Rice, Japanese Bento,Curry laksa, Bak Kut Teh, Hokkien Mee",1,0,0,1,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,6
+795,Female,15 - 24,"Laksa , Hainanese Chicken Rice,Curry laksa, Roti Prata, Roti John, Satay",1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,6
+145,Male,65 and above,"Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Black Pepper Crab, Cereal Prawn, Crab Bee Hoon Soup",0,0,1,1,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,6
+280,Female,55 - 64,"Laksa , Japanese Bento, Fish Head Curry, Kway Chap, Black Pepper Crab, Satay",1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,6
+132,Male,65 and above,"Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Duck Rice, Bak Kut Teh, Crab Bee Hoon Soup",1,0,1,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,6
+313,Male,55 - 64,"Chili Crab, Hainanese Chicken Rice, Fish and Chips, Black Pepper Crab, Cereal Prawn, Katong laksa ",0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,6
+307,Male,55 - 64,"Laksa , Char Kway Teow, Duck Rice, Fish Head Curry, Sambal Stingray, Satay",1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,6
+282,Female,55 - 64,"Laksa , Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Fish and Chips",1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+189,Male,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Kway Chap",0,0,1,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,6
+182,Male,65 and above,"Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Duck Rice, Bak Kut Teh, Crab Bee Hoon Soup",0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,6
+249,Female,55 - 64,"Laksa , Char Kway Teow, Hainanese Chicken Rice, Bak Kut Teh, Kway Chap, Katong laksa ",1,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,6
+361,Male,55 - 64,"Chili Crab, Hainanese Chicken Rice, Chinese Economy Rice, Duck Rice, Bak Kut Teh, Black Pepper Crab",0,0,0,1,0,0,1,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,6
+661,Male,15 - 24,"Laksa , Chili Crab,Curry laksa, Roti Prata, Black Pepper Crab, Cereal Prawn",1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,6
+297,Female,55 - 64,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup,Curry laksa, Duck Rice, Roti John",0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,6
+422,Female,25 - 54,"Sliced Fish Soup,Curry laksa, Yu Sheng, Hokkien Mee, Kway Chap, Cereal Prawn",0,0,0,0,1,0,0,0,1,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,6
+367,Male,55 - 64,"Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Yu Sheng, Black Pepper Crab, Sambal Stingray",0,0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,6
+365,Male,55 - 64,"Laksa , Hainanese Chicken Rice, Sliced Fish Soup, Duck Rice, Bak Kut Teh, Kway Chap",1,0,0,1,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,6
+6,Female,65 and above,"Laksa , Sliced Fish Soup, Chinese Economy Rice, Yu Sheng, Bak Kut Teh, Crab Bee Hoon Soup",1,0,0,0,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,6
+536,Male,25 - 54,"Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Hokkien Mee, Roti Prata, Sambal Stingray",0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,6
+955,Female,14 and below,"Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Bak Kut Teh, Cereal Prawn, Crab Bee Hoon Soup",0,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,6
+747,Female,15 - 24,"Char Kway Teow, Bak Kut Teh, Hokkien Mee, Roti Prata, katong laksa, Sambal Stingray",0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,1,0,0,6
+556,Male,25 - 54,"Laksa , Chili Crab, Char Kway Teow, Kway Chap, Roti Prata, Black Pepper Crab",1,1,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,6
+838,Male,14 and below,"Hainanese Chicken Rice, Chinese Economy Rice, Japanese Bento,Curry laksa, Bak Kut Teh, Roti Prata",0,0,0,1,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6
+472,Female,25 - 54,"Laksa , Char Kway Teow, Hokkien Mee, Kway Chap, Roti Prata, Satay",1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,6
+610,Male,15 - 24,"Hainanese Chicken Rice, Fish and Chips, Japanese Bento,Curry laksa, Roti Prata, Satay",0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,6
+833,Male,14 and below,"Hainanese Chicken Rice, Japanese Bento, Fish Head Curry, Cereal Prawn, Sambal Stingray, Satay",0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,6
+630,Male,15 - 24,"Hainanese Chicken Rice, Japanese Bento, Roti Prata, katong laksa, Sambal Stingray, Satay",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,6
+566,Male,25 - 54,"Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Hokkien Mee, Roti Prata, Sambal Stingray",0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,6
+924,Female,14 and below,"Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Bak Kut Teh, Kway Chap, Cereal Prawn",0,0,0,1,0,1,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,6
+76,Female,65 and above,"Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Japanese Bento, Kway Chap",0,0,0,0,1,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,6
+854,Male,14 and below,"Laksa , Japanese Bento,Curry laksa, Fish Head Curry, Bak Kut Teh, Hokkien Mee",1,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,6
+319,Male,55 - 64,"Chili Crab, Hainanese Chicken Rice, Chinese Economy Rice, Duck Rice, Bak Kut Teh, Black Pepper Crab",0,1,0,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,6
+134,Male,65 and above,"Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Roti Prata, Roti John, Crab Bee Hoon Soup",1,0,1,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,6
+336,Male,55 - 64,"Chili Crab, Char Kway Teow, Chinese Economy Rice, Duck Rice, Bak Kut Teh, Black Pepper Crab",0,1,1,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,6
+346,Male,55 - 64,"Chili Crab, Char Kway Teow, Beef Kway Teow, katong laksa, Sambal Stingray, Satay",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,6
+994,Female,14 and below,"Sliced Fish Soup, Fish and Chips, Japanese Bento, Roti Prata, Cereal Prawn, Satay",0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,1,0,1,0,0,0,6
+291,Female,55 - 64,"Hainanese Chicken Rice, Fish and Chips, Japanese Bento,Curry laksa, Fish Head Curry, Sambal Stingray",0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,6
+535,Male,25 - 54,"Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Fish and Chips, Chinese Economy Rice",0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+262,Female,55 - 64,"Laksa , Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Fish and Chips",1,1,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+928,Female,14 and below,"Sliced Fish Soup, Fish and Chips, Japanese Bento, Roti Prata, Cereal Prawn, Satay",0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,6
+25,Female,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Crab Bee Hoon Soup",0,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,6
+719,Female,15 - 24,"Laksa , Chili Crab, Char Kway Teow, Fish and Chips, Japanese Bento, Duck Rice",1,1,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+172,Male,65 and above,"Chili Crab, Char Kway Teow, Sliced Fish Soup, Chinese Economy Rice, Duck Rice, Fish Head Curry",0,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,6
+476,Female,25 - 54,"Sliced Fish Soup, Fish and Chips, Hokkien Mee, Kway Chap, Roti Prata, Cereal Prawn",0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,6
+643,Male,15 - 24,"Laksa , Chili Crab,Curry laksa, Fish Head Curry, katong laksa, Sambal Stingray",1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,6
+782,Female,15 - 24,"Laksa , Hainanese Chicken Rice,Curry laksa, Fish Head Curry, Bak Kut Teh, Hokkien Mee",1,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,6
+531,Male,25 - 54,"Laksa , Chili Crab, Duck Rice, Bak Kut Teh, Kway Chap, Roti Prata",1,1,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,6
+269,Female,55 - 64,"Laksa , Char Kway Teow, Hainanese Chicken Rice, Bak Kut Teh, Kway Chap, Katong laksa ",1,0,0,1,0,0,1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,6
+602,Male,15 - 24,"Char Kway Teow, Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Roti Prata, Roti John",0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,6
+853,Male,14 and below,"Sliced Fish Soup, Fish and Chips, Japanese Bento,Curry laksa, Bak Kut Teh, Kway Chap",0,0,0,0,1,1,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,6
+871,Male,14 and below,"Laksa , Hainanese Chicken Rice, Japanese Bento, Fish Head Curry, Hokkien Mee, Cereal Prawn",1,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,6
+745,Female,15 - 24,"Char Kway Teow, Fish and Chips, Chinese Economy Rice, Japanese Bento, Hokkien Mee, Beef Kway Teow",0,0,1,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,6
+56,Female,65 and above,"Char Kway Teow, Fish Head Curry, Black Pepper Crab, Roti John, Beef Kway Teow, Satay",0,0,0,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,6
+638,Male,15 - 24,"Chili Crab, Bak Kut Teh, Kway Chap, Cereal Prawn, katong laksa, Sambal Stingray",0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,1,0,0,6
+170,Male,65 and above,"Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Black Pepper Crab, Cereal Prawn, Crab Bee Hoon Soup",0,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,6
+950,Female,14 and below,"Sliced Fish Soup, Fish and Chips, Japanese Bento,Curry laksa, Hokkien Mee, Roti Prata",0,0,0,0,1,1,0,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6
+214,Female,55 - 64,"Hainanese Chicken Rice, Japanese Bento, Fish Head Curry, Bak Kut Teh, Sambal Stingray, Crab Bee Hoon Soup",0,0,0,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,6
+420,Female,25 - 54,"Fish and Chips, Roti Prata, Roti John, Beef Kway Teow, Sambal Stingray, Satay",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,1,6
+121,Male,65 and above,"Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Kway Chap, Crab Bee Hoon Soup",0,0,0,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,6
+362,Male,55 - 64,"Hainanese Chicken Rice, Sliced Fish Soup, Fish and Chips, Fish Head Curry, Hokkien Mee, Sambal Stingray",0,0,0,1,0,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,6
+332,Male,55 - 64,"Char Kway Teow, Sliced Fish Soup, Duck Rice, Bak Kut Teh, Hokkien Mee, Kway Chap",0,0,1,0,1,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,6
+850,Male,14 and below,"Laksa , Sliced Fish Soup, Fish and Chips, Japanese Bento, Hokkien Mee, Cereal Prawn",1,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,6
+383,Male,55 - 64,"Char Kway Teow, Sliced Fish Soup, Chinese Economy Rice, Duck Rice, Fish Head Curry, Beef Kway Teow",0,0,1,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,6
+909,Female,14 and below,"Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Kway Chap, Roti Prata, Satay",0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,6
+300,Female,55 - 64,"Laksa , Japanese Bento, Fish Head Curry, Kway Chap, Black Pepper Crab, Satay",1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,6
+971,Female,14 and below,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Fish and Chips, Chinese Economy Rice, Japanese Bento",0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+736,Female,15 - 24,"Hainanese Chicken Rice, Sliced Fish Soup, Fish and Chips, Duck Rice, Hokkien Mee, Black Pepper Crab",0,0,0,1,1,1,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,6
+107,Male,65 and above,"Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Duck Rice, Bak Kut Teh, Crab Bee Hoon Soup",0,0,0,1,1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,6
+614,Male,15 - 24,"Laksa , Chili Crab, Char Kway Teow, Hainanese Chicken Rice,Curry laksa, Bak Kut Teh",1,1,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6
+896,Male,14 and below,"Char Kway Teow, Sliced Fish Soup, Japanese Bento, Hokkien Mee, Beef Kway Teow, Sambal Stingray",0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,1,0,6
+199,Male,65 and above,"Hainanese Chicken Rice, Sliced Fish Soup,Curry laksa, Duck Rice, Bak Kut Teh, Kway Chap",0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,6
+904,Female,14 and below,"Fish and Chips, Japanese Bento, Duck Rice, Bak Kut Teh, Roti Prata, Satay",0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,6
+225,Female,55 - 64,"Laksa , Char Kway Teow,Curry laksa, Hokkien Mee, Roti Prata, Satay",1,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,6
+958,Female,14 and below,"Sliced Fish Soup, Fish and Chips, Japanese Bento, Roti Prata, Cereal Prawn, Satay",0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,6
+713,Female,15 - 24,"Laksa , Chili Crab, Char Kway Teow, Bak Kut Teh, Hokkien Mee, Cereal Prawn",1,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,6
+347,Male,55 - 64,"Chili Crab, Duck Rice, Fish Head Curry, Bak Kut Teh, Hokkien Mee, Black Pepper Crab",0,1,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,6
+631,Male,15 - 24,"Char Kway Teow, Fish and Chips, Japanese Bento, Bak Kut Teh, Hokkien Mee, Roti Prata",0,0,1,0,0,1,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,6
+634,Male,15 - 24,"Chili Crab, Sliced Fish Soup, Bak Kut Teh, Black Pepper Crab, Crab Bee Hoon Soup, Satay",0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,6
+176,Male,65 and above,"Hainanese Chicken Rice, Sliced Fish Soup, Roti Prata, Cereal Prawn, Crab Bee Hoon Soup, Satay",0,0,1,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,6
+564,Male,25 - 54,"Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Fish and Chips, Chinese Economy Rice",0,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+659,Male,15 - 24,"Fish and Chips, Chinese Economy Rice, Japanese Bento, Hokkien Mee, Black Pepper Crab, Roti John",0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,6
+781,Female,15 - 24,"Chili Crab, Japanese Bento, Duck Rice, Bak Kut Teh, Kway Chap, Sambal Stingray",0,1,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,6
+7,Female,65 and above,"Sliced Fish Soup, Chinese Economy Rice, Japanese Bento, Yu Sheng, Bak Kut Teh, Crab Bee Hoon Soup",0,0,0,0,1,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,6
+102,Male,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Kway Chap, Beef Kway Teow",0,0,1,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,6
+844,Male,14 and below,"Laksa , Chili Crab, Hainanese Chicken Rice, Fish and Chips, Roti John, Katong laksa ",1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,6
+815,Male,14 and below,"Chili Crab, Fish and Chips, Japanese Bento,Curry laksa, Fish Head Curry, Black Pepper Crab",0,1,0,0,0,1,0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,6
+997,Female,14 and below,"Hainanese Chicken Rice, Sliced Fish Soup, Fish and Chips, Japanese Bento, Hokkien Mee, Cereal Prawn",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,6
+851,Male,14 and below,"Chili Crab, Fish and Chips, Japanese Bento,Curry laksa, Fish Head Curry, Black Pepper Crab",0,1,0,0,0,1,0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,6
+340,Male,55 - 64,"Chili Crab, Char Kway Teow, Fish and Chips, Bak Kut Teh, Sambal Stingray, Crab Bee Hoon Soup",0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,6
+682,Male,15 - 24,"Chili Crab, Sliced Fish Soup, Bak Kut Teh, Black Pepper Crab, Crab Bee Hoon Soup, Satay",0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,6
+609,Male,15 - 24,"Char Kway Teow, Hainanese Chicken Rice, Bak Kut Teh, Cereal Prawn, Sambal Stingray, Crab Bee Hoon Soup",0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,6
+188,Male,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Kway Chap",0,0,1,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,6
+931,Female,14 and below,"Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Hokkien Mee, Roti Prata, Beef Kway Teow",0,0,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,6
+360,Male,55 - 64,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Bak Kut Teh, Hokkien Mee, Beef Kway Teow",0,0,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,6
+693,Male,15 - 24,"Laksa , Char Kway Teow, Fish and Chips, Japanese Bento, Cereal Prawn, Sambal Stingray",1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,6
+139,Male,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Kway Chap",1,0,1,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,6
+756,Female,15 - 24,"Laksa , Hainanese Chicken Rice, Japanese Bento,Curry laksa, Bak Kut Teh, Kway Chap",1,0,0,1,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,6
+608,Male,15 - 24,"Laksa , Fish and Chips, Chinese Economy Rice, Japanese Bento, Roti Prata, Satay",1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,6
+824,Male,14 and below,"Char Kway Teow, Sliced Fish Soup, Japanese Bento, Hokkien Mee, Beef Kway Teow, Sambal Stingray",0,0,1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,6
+941,Female,14 and below,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Fish and Chips, Chinese Economy Rice, Japanese Bento",0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+425,Female,25 - 54,"Laksa , Char Kway Teow, Sliced Fish Soup, Japanese Bento, Bak Kut Teh, Beef Kway Teow",1,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,6
+482,Female,25 - 54,"Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Fish Head Curry, Hokkien Mee, Crab Bee Hoon Soup",0,1,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,6
+895,Male,14 and below,"Hainanese Chicken Rice, Sliced Fish Soup, Fish and Chips, Japanese Bento, Hokkien Mee, Crab Bee Hoon Soup",0,0,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,6
+484,Female,25 - 54,"Laksa , Sliced Fish Soup, Chinese Economy Rice, Japanese Bento, Duck Rice, Roti Prata",1,0,0,0,1,0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,6
+626,Male,15 - 24,"Hainanese Chicken Rice, Hokkien Mee, Black Pepper Crab, Cereal Prawn, Sambal Stingray, Crab Bee Hoon Soup",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,1,0,6
+562,Male,25 - 54,"Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Bak Kut Teh, Hokkien Mee, Katong laksa ",0,1,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,6
+374,Male,55 - 64,"Char Kway Teow, Sliced Fish Soup, Duck Rice, Bak Kut Teh, Hokkien Mee, Kway Chap",0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0,6
+351,Male,55 - 64,"Chili Crab, Hainanese Chicken Rice, Sliced Fish Soup, Fish Head Curry, Hokkien Mee, Roti Prata",0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,6
+569,Male,25 - 54,"Chili Crab, Hainanese Chicken Rice,Curry laksa, Bak Kut Teh, Black Pepper Crab, Sambal Stingray",0,1,0,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,6
+860,Male,14 and below,"Char Kway Teow, Sliced Fish Soup, Japanese Bento, Hokkien Mee, Beef Kway Teow, Sambal Stingray",0,0,1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,6
+628,Male,15 - 24,"Laksa , Hainanese Chicken Rice, Chinese Economy Rice, Japanese Bento, Roti Prata, Satay",1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,6
+604,Male,15 - 24,"Chili Crab, Hokkien Mee, Kway Chap, katong laksa, Sambal Stingray, Crab Bee Hoon Soup",0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,1,0,6
+885,Male,14 and below,"Sliced Fish Soup, Fish and Chips, Japanese Bento,Curry laksa, Hokkien Mee, Roti Prata",0,0,0,0,0,0,0,1,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,6
+706,Female,15 - 24,"Sliced Fish Soup, Japanese Bento, Duck Rice, Fish Head Curry, Hokkien Mee, Roti Prata",0,0,0,0,1,1,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,6
+594,Male,25 - 54,"Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Fish and Chips, Chinese Economy Rice",0,1,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+261,Female,55 - 64,"Laksa , Chili Crab, Fish Head Curry, Kway Chap, katong laksa, Crab Bee Hoon Soup",1,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,6
+241,Female,55 - 64,"Laksa , Chili Crab, Fish Head Curry, Kway Chap, katong laksa, Crab Bee Hoon Soup",1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0,6
+265,Female,55 - 64,"Laksa , Char Kway Teow,Curry laksa, Hokkien Mee, Roti Prata, Satay",1,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,6
+787,Female,15 - 24,"Chili Crab, Sliced Fish Soup, Japanese Bento, Hokkien Mee, Cereal Prawn, Katong laksa ",0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,6
+505,Male,25 - 54,"Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Fish and Chips, Chinese Economy Rice",0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+906,Female,14 and below,"Hainanese Chicken Rice, Sliced Fish Soup, Fish and Chips,Curry laksa, Yu Sheng, Roti Prata",0,0,0,1,1,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6
+887,Male,14 and below,"Chili Crab, Fish and Chips, Japanese Bento,Curry laksa, Fish Head Curry, Black Pepper Crab",0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,6
+93,Female,65 and above,"Char Kway Teow, Fish Head Curry, Black Pepper Crab, Roti John, Beef Kway Teow, Satay",0,0,0,1,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,6
+515,Male,25 - 54,"Laksa , Chili Crab, Char Kway Teow,Curry laksa, Fish Head Curry, Katong laksa ",1,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,6
+984,Female,14 and below,"Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Bak Kut Teh, Kway Chap, Cereal Prawn",0,0,0,1,0,1,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,6
+416,Female,25 - 54,"Laksa , Chili Crab, Char Kway Teow, Sliced Fish Soup,Curry laksa, Fish Head Curry",1,1,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,6
+974,Female,14 and below,"Hainanese Chicken Rice, Fish and Chips, Japanese Bento, Duck Rice, Roti Prata, Satay",0,0,0,1,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,6
+52,Female,65 and above,"Laksa , Sliced Fish Soup, Chinese Economy Rice, Hokkien Mee, Crab Bee Hoon Soup, Satay",0,0,0,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,6
+113,Male,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Kway Chap",0,0,1,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,6
+117,Male,65 and above,"Laksa , Sliced Fish Soup, Chinese Economy Rice,Curry laksa, Bak Kut Teh, Crab Bee Hoon Soup",1,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,6
+821,Male,14 and below,"Char Kway Teow, Fish and Chips, Roti Prata, Roti John, Sambal Stingray, Satay",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,6
+24,Female,65 and above,"Sliced Fish Soup, Chinese Economy Rice, Japanese Bento, Bak Kut Teh, Kway Chap, Crab Bee Hoon Soup",0,0,0,0,1,0,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,6
+415,Female,25 - 54,"Laksa , Japanese Bento, Hokkien Mee, Cereal Prawn, Sambal Stingray, Satay",1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1,6
+809,Male,14 and below,"Laksa , Chili Crab, Char Kway Teow, Hainanese Chicken Rice, Fish and Chips, Japanese Bento",1,1,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+478,Female,25 - 54,"Chili Crab, Char Kway Teow, Hainanese Chicken Rice,Curry laksa, Duck Rice, Fish Head Curry",0,1,1,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,6
+561,Male,25 - 54,"Laksa , Chili Crab, Duck Rice, Bak Kut Teh, Kway Chap, Roti Prata",1,1,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,6
+711,Female,15 - 24,"Hainanese Chicken Rice, Sliced Fish Soup, Hokkien Mee, Roti Prata, Cereal Prawn, Sambal Stingray",0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,6
+449,Female,25 - 54,"Chili Crab, Sliced Fish Soup, Bak Kut Teh, Black Pepper Crab, Cereal Prawn, Sambal Stingray",0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,1,0,0,6
+91,Female,65 and above,"Chili Crab, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, katong laksa, Sambal Stingray",0,0,0,1,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,6
+136,Male,65 and above,"Char Kway Teow, Hainanese Chicken Rice, Sliced Fish Soup, Chinese Economy Rice, Bak Kut Teh, Crab Bee Hoon Soup",1,0,1,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,6
+436,Female,25 - 54,"Laksa , Char Kway Teow, Hokkien Mee, Kway Chap, Roti Prata, Satay",1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,6
