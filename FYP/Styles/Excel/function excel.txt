@@ -1,0 +1,7 @@
+=IF(ISNUMBER(SEARCH("Artsy Style (F)",C2)),1,0)
+
+=COUNTIFS(B:B,"Female",C:C,"15 - 24")
+
+=ROW()-1
+
+=SUM(D2:CI2)

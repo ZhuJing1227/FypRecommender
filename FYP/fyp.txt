@@ -1,0 +1,33 @@
+
+Deploy the all the recommendation system the previous batches did on pycharm
+-DeployableCode_updated.py (Food)
+-Sprint3updated.py (Food)
+-Sprint4updated.py (NYP courses)
+
+Background research
+-understand previous batch code by understanding Pyqt5 and juspyter notebook
+-learn about machine learning such as predictive modeling and collaborative filtering
+
+Convert Python project to exe file and make them one file based
+-DeployableCode_updated.py (Food)
+-Sprint3updated.py (Food)
+-Sprint4updated.py (NYP courses)
+
+Deploy exe file on the sharing laptop and take video for deployment in third person view for sharing
+-DeployableCode_updated.py (Food)
+-Sprint3updated.py (Food)
+-Sprint4updated.py (NYP courses)
+
+deployment video
+
+Conduct Survey
+
+Data Preparation
+
+
+
+
+sklearn.utils._typedefs
+sklearn.utils._heap
+sklearn.utils._sorting
+sklearn.utils._vector_sentinel

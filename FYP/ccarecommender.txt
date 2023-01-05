@@ -1,0 +1,102 @@
+        elif imagechooser == "imagechooser4":
+            print("2")
+            self.image.setStyleSheet("border-image: url(CCACata4.png);")
+            self.layoutGrid.addWidget(self.image)
+        elif imagechooser == "imagechooser5":
+            print("3")
+            self.image.setStyleSheet("border-image: url(CCACata5.png);")
+            self.layoutGrid.addWidget(self.image)
+        elif imagechooser == "imagechooser6":
+            print("2")
+            self.image.setStyleSheet("border-image: url(CCACata6.png);")
+            self.layoutGrid.addWidget(self.image)
+        elif imagechooser == "imagechooser7":
+            print("3")
+            self.image.setStyleSheet("border-image: url(CCACata7.png);")
+            self.layoutGrid.addWidget(self.image)
+        elif imagechooser == "imagechooser8":
+            print("2")
+            self.image.setStyleSheet("border-image: url(CCACata8.png);")
+            self.layoutGrid.addWidget(self.image)
+        elif imagechooser == "imagechooser9":
+            print("3")
+            self.image.setStyleSheet("border-image: url(CCACata9.png);")
+            self.layoutGrid.addWidget(self.image)
+        elif imagechooser == "imagechooser10":
+            print("2")
+            self.image.setStyleSheet("border-image: url(CCACata10.png);")
+            self.layoutGrid.addWidget(self.image)
+        elif imagechooser == "imagechooser11":
+            print("3")
+            self.image.setStyleSheet("border-image: url(CCACata11.png);")
+            self.layoutGrid.addWidget(self.image)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ maps = {'SAS Club (Academic Club)':'https://www.nyp.edu.sg/student-life/cca/academic-clubs/sas-club.html',
+                'Piano Ensemble (Arts & Culture)':'https://www.nyp.edu.sg/student-life/cca/arts-and-culture/piano-ensemble.html',
+                'Danz Inc. (Arts & Culture)':'https://www.nyp.edu.sg/student-life/cca/arts-and-culture/danz-inc.html',
+                'Community Service Club (Community Service & Environment)':'https://www.nyp.edu.sg/student-life/cca/community-service-and-environment/community-service-club.html',
+                'Aikido (Sports and Adventure)':"https://www.nyp.edu.sg/student-life/cca/sports-and-adventure/aikido.html" ,
+                'Adventure Club (Sports and Adventure)': 'https://www.nyp.edu.sg/student-life/cca/sports-and-adventure/adventure-club.html',
+                'Archery (Sports and Adventure)': 'https://www.nyp.edu.sg/student-life/cca/sports-and-adventure/archery.html',
+                'Ambassadorial Team (Leadership & Character Development)':'https://www.nyp.edu.sg/student-life/cca/leadership-and-character-development/ambassadorial-team.html',
+                'SBM Club (Academic Club)':'https://www.nyp.edu.sg/student-life/cca/academic-clubs/sbm-club.html',
+                'Chinese Cultural Group (Arts & Culture)':'https://www.nyp.edu.sg/student-life/cca/arts-and-culture/chinese-cultural-group.html',
+                'Crew Studio (Arts & Culture)':'https://www.nyp.edu.sg/student-life/cca/arts-and-culture/crew-studio.html',
+                'NYP Primers (Community Service & Environment)':'https://www.nyp.edu.sg/student-life/cca/community-service-and-environment/bb-primers.html',
+                'Basketball (Sports and Adventure)':'https://www.nyp.edu.sg/student-life/cca/sports-and-adventure/basketball.html',
+                'Athletics (Sports and Adventure)':'https://www.nyp.edu.sg/student-life/cca/sports-and-adventure/athletics.html',
+                'Badminton (Sports and Adventure)':'https://www.nyp.edu.sg/student-life/cca/sports-and-adventure/badminton.html',
+                'Astronomy Club (Leadership & Character Development)':'https://www.nyp.edu.sg/student-life/cca/leadership-and-character-development/astronomy-club.html',
+                'SBM Club (Academic Club)':'https://www.nyp.edu.sg/student-life/cca/academic-clubs/sbm-club.html',
+                'Symphony Orchestra (Arts & Culture)':'https://www.nyp.edu.sg/student-life/cca/arts-and-culture/symphony-orchestra.html',
+                'Sakuran Japanese Cultural Club (Arts & Culture)': 'https://www.nyp.edu.sg/student-life/cca/arts-and-culture/sakuran-japanese-cultural-club.html',
+                'Mentoring Club (Community Service & Environment)':'https://www.nyp.edu.sg/student-life/cca/community-service-and-environment/mentoring-club.html',
+                'Bei Quan Dao (Sports and Adventure)':'https://www.nyp.edu.sg/student-life/cca/sports-and-adventure/bei-quan-dao.html',
+                'Canoe Sprint (Sports and Adventure)':'https://www.nyp.edu.sg/student-life/cca/sports-and-adventure/canoe-sprint.html',
+                'Hockey (Sports and Adventure)':'https://www.nyp.edu.sg/student-life/cca/sports-and-adventure/hockey.html',
+                'Current Affairs & Debating Club (Leadership & Character Development)':'https://www.nyp.edu.sg/student-life/cca/leadership-and-character-development/current-affairs-and-debating-club.html'
+
+                }

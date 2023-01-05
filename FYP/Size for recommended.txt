@@ -1,0 +1,61 @@
+Sprint3updated.py
+
+line 792
+        layoutGrid.setHorizontalSpacing(20)
+        # layoutGrid.setColumnMinimumWidth(80,50)
+        layoutGrid.setContentsMargins(20, 20, 20, 20)
+
+line 795
+        self.setFixedHeight(570)
+        self.setMinimumWidth(1282.5)
+
+
+line 799
+        tittle.setFont(QFont('Times New Roman', 25))
+
+
+line 800 
+        tittle.setFixedHeight(55)
+
+line 834
+        foodchoice.setStyleSheet("color: #878280; margin-left:200px; border:0px solid black;")
+
+
+line 860
+            button.setFixedHeight(300)
+
+
+line 1109
+            images.setFixedHeight(200)
+
+
+
+Sprint4updated.py
+
+line 760
+        layoutGrid.setHorizontalSpacing(20)
+        # layoutGrid.setColumnMinimumWidth(80,50)
+        layoutGrid.setContentsMargins(20, 20, 20, 20)
+
+line 763
+        self.setFixedHeight(570)
+        self.setMinimumWidth(1282.5)
+
+line 766
+        tittle.setFont(QFont('Times New Roman', 25))
+
+line 767
+        tittle.setFixedHeight(55)
+
+line 796
+        foodchoice.setStyleSheet("color: #DDE0E8; margin-left:200px; border:0px solid black;")
+
+line 799 
+        foodchoice1.setStyleSheet(" border:0px solid black;text-decoration: underline; color:#CDE5FF; background-color:none; margin-right:400px; margin-left:180px; text-align:left; font-weight:bold;")
+
+line 822
+            button.setFixedHeight(300)
+
+line 853
+            images.setFixedHeight(200)
+
